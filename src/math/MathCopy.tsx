@@ -1,0 +1,3 @@
+import {useLocale,localizeTree} from '../i18n';
+import {Fragment} from 'react';import {MathText} from '../components/Math';
+export function MathCopy({text,localize=true}:{text:string;localize?:boolean}){const {locale}=useLocale();const parts=text.split(/(\$\$[\s\S]*?\$\$|\$[^$\n]+\$)/g);const tree=<div className="math-copy">{parts.map((part,i)=>part.startsWith('$$')&&part.endsWith('$$')?<MathText key={i} tex={part.slice(2,-2)} block/>:part.startsWith('$')&&part.endsWith('$')?<MathText key={i} tex={part.slice(1,-1)}/>:<Fragment key={i}>{part}</Fragment>)}</div>;return localize?localizeTree(tree,locale):tree;}

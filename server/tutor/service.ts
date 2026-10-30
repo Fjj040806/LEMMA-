@@ -1,0 +1,23 @@
+import {randomUUID} from 'node:crypto';import {z} from 'zod';
+import {requestModel,ServiceError,type Attachment} from '../model';
+import {recognitionSchema,validateGeneralPlan,reviewSchema,feedbackSchema,privateNodeSchema,type PrivatePlan,type GeneralFeedback} from '../../src/math/contracts';
+import {type TutorSession,assistance,persist} from './store';
+export async function recognize(attachment:Attachment,locale:string,kind:'problem'|'work'){return recognitionSchema.parse(await requestModel(`只做${kind==='problem'?'题目':'学生解题笔迹'}识别，不解题、不评价正确性、不提供策略提示。JSON 必须为 {text:string,latex:string,uncertainParts:string[],needsReview:boolean}。保留原文的语言、所有公式、单位、图形条件、上下标与换行，不把识别过程当作讲解。latex 是对应公式的 LaTeX；不确定字符列在 uncertainParts，不能补写学生未写出的步骤。空白图片返回空 text 并 needsReview=true。只识别题目时忽略批注答案。`,{kind},{locale,attachment,tokens:4000}));}
+export async function buildPlan(problem:string,level:'high_school'|'university',locale:string,similarTo?:PrivatePlan):Promise<PrivatePlan>{
+ const template={problem:'题目文字，公式用 $...$ 或 $$...$$',topic:'学科主题',level,finalGoal:'最终目标',nodes:[{id:'step_1',goal:'阶段目标',task:'只问当前可执行任务，不透露答案',dependencies:[],expectedAnswer:'服务端私有参考答案',criteria:['可审核完成标准'],hints:['方向提示','当前局部提示']}],referenceAnswer:'私有最终答案',workedSolution:'面向学生可阅读的完整数学解答（非隐藏思维链）',validationStatus:'model_reviewed'};
+ const p=validateGeneralPlan(await requestModel(`生成高中或大学数学教学计划，JSON 结构严格使用 template，创建 2–8 个有意义的节点。节点 id 为小写字母数字下划线，dependencies 仅指向之前节点，除第一个外至少一个前置依赖。题目范围包括计算、证明、几何图形、概率、线性代数等，不限制为积分。每步按年级可完成且保留有效替代方法。不能凭空添加缺失条件。题目不完整或无法解决则 validationStatus=needs_review。goal 和 task 不包含当前或未来具体答案，expectedAnswer/criteria/hints 是私有。${similarTo?'生成一道同知识点、相近难度但结构/情境有变化的新题，不要只换系数；problem 为新题，不能泄漏其答案。':'problem 保留用户确认的题意，不擅自改题。'}`,{problem,level,template,similarTo:similarTo?{problem:similarTo.problem,topic:similarTo.topic,level:similarTo.level}:undefined},{locale,tokens:9000,timeout:60000}));
+ if(!similarTo)p.problem=problem;
+ if(p.level!==level)throw new ServiceError('invalid_plan','教学计划的年级与选择不符，请重试。',422);
+ if(similarTo&&p.problem.replace(/\s/g,'')===similarTo.problem.replace(/\s/g,''))throw new ServiceError('duplicate_problem','生成题目与原题重复，请再试一次。',422);
+ const review=reviewSchema.parse(await requestModel('独立检查给定题目、参考答案与教学计划的数学一致性、条件充分性、任务可达性，以及当前 task/goal 是否直接给出了答案。输出 {approved:boolean,issues:string[]}。这是模型复核，不是形式证明；不确定则 approved=false。',{plan:p},{locale,tokens:3500}));
+ if(!review.approved||p.validationStatus==='needs_review')throw new ServiceError('needs_review','这道题的条件或解答尚需复核。请补充题意，或保留原题稍后再试。',422);return p;
+}
+export async function evaluate(s:TutorSession,text:string,id:string,whole:boolean):Promise<GeneralFeedback>{const n=s.plan.nodes[s.index];const f=feedbackSchema.parse(await requestModel(`评估学生明确提交的${whole?'完整解法':'当前步骤'}，不是隐藏推理。返回 {status:'correct'|'incorrect'|'unknown',studentMessage:string,evidenceRefs:string[],preservedParts:string[],recommendedAction:'continue'|'clarify'|'split_step'|'switch_approach'|'request_synthesis'|'needs_review',needsReview:boolean}。evidenceRefs 只能是给定 submissionId。有效替代方法不能因不匹配标准路线判错；已知数学错误才标 incorrect，表达或证据不足标 unknown。保留正确部分。${whole?'整题只在本次最终提交后评分。':'只评价当前动作，不给出未完成节点或最终答案。'}模型意见只是模型复核，不等于形式数学证明。`,{problem:s.plan.problem,task:whole?null:n,reference:whole?s.plan.referenceAnswer:undefined,studentWork:text,submissionId:id},{locale:s.locale,tokens:3500}));
+ if(f.evidenceRefs.some(ref=>ref!==id))throw new ServiceError('invalid_evidence','AI 返回的证据引用无效，已保留作答。',422);
+ if(f.needsReview||f.status==='unknown')return {...f,status:'unknown',needsReview:true,recommendedAction:'needs_review'};return f;
+}
+export async function splitTask(s:TutorSession){const node=s.plan.nodes[s.index];if(!node)throw new ServiceError('no_current_task','当前没有可拆分的任务。',400);assistance(s,'substep_revealed',node.id);const schema=z.object({nodes:z.array(privateNodeSchema).min(2).max(3)});const result=schema.parse(await requestModel('把当前单一教学任务拆为 2–3 个更小任务，保持问题与目标不变，不透露答案。返回 {nodes:[...]}，每个节点字段与 current 相同，但 id 和 dependencies 由应用重建。expectedAnswer/criteria/hints 为服务端私有；目标任务不能直接给出答案。',{problem:s.plan.problem,current:node},{locale:s.locale,tokens:4500}));
+ if(s.plan.nodes.length+result.nodes.length-1>12)throw new ServiceError('too_many_steps','当前任务已足够细，可用局部提示继续。',422);
+ const prefix='split_'+randomUUID().slice(0,8).replace(/-/g,'');const newNodes=result.nodes.map((n,i)=>({...n,id:prefix+'_'+i,dependencies:i?[prefix+'_'+(i-1)]:node.dependencies}));
+ const nodes=[...s.plan.nodes.slice(0,s.index),...newNodes,...s.plan.nodes.slice(s.index+1).map(n=>({...n,dependencies:n.dependencies.map(d=>d===node.id?newNodes.at(-1)!.id:d)}))];s.plan=validateGeneralPlan({...s.plan,nodes});s.adjustments.push({action:'split_step',reason:'学生主动请求把当前任务拆小',timestamp:new Date().toISOString()});persist();
+}

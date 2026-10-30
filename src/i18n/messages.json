@@ -1,0 +1,4133 @@
+[
+ [
+  "开始训练",
+  "開始訓練",
+  "Start practicing",
+  "Commencer",
+  "Empezar",
+  "練習を始める",
+  "Начать практику"
+ ],
+ [
+  "我的进展",
+  "我的進展",
+  "My progress",
+  "Mes progrès",
+  "Mi progreso",
+  "学習の記録",
+  "Мой прогресс"
+ ],
+ [
+  "本机学习记录",
+  "本機學習記錄",
+  "Saved on this device",
+  "Enregistré sur cet appareil",
+  "Guardado en este dispositivo",
+  "この端末の学習記録",
+  "Записи на этом устройстве"
+ ],
+ [
+  "LEMMA 首页",
+  "LEMMA 首頁",
+  "LEMMA home",
+  "Accueil LEMMA",
+  "Inicio de LEMMA",
+  "LEMMA ホーム",
+  "Главная LEMMA"
+ ],
+ [
+  "一步步，",
+  "一步步，",
+  "Step by step,",
+  "Pas à pas,",
+  "Paso a paso,",
+  "一歩ずつ、",
+  "Шаг за шагом"
+ ],
+ [
+  "解开。",
+  "解開。",
+  "unravel it.",
+  "on démêle.",
+  "lo resuelves.",
+  "ひもとこう。",
+  "к решению."
+ ],
+ [
+  "一步步，解开。",
+  "一步步，解開。",
+  "Step by step, unravel it.",
+  "Pas à pas, on démêle.",
+  "Paso a paso, lo resuelves.",
+  "一歩ずつ、ひもとこう。",
+  "Шаг за шагом — к решению."
+ ],
+ [
+  "把复杂问题拆成你能完成的下一步，",
+  "把複雜問題拆成你能完成的下一步，",
+  "Turn a complex problem into a next step you can take.",
+  "Transformez un problème complexe en une prochaine étape accessible.",
+  "Convierte un problema complejo en un siguiente paso a tu alcance.",
+  "複雑な問題を、今できる一歩に分けて、",
+  "Разбейте сложную задачу на посильные шаги."
+ ],
+ [
+  "再把它们连起来。",
+  "再把它們連起來。",
+  "Then connect the pieces.",
+  "Puis reliez les étapes.",
+  "Después, conecta las partes.",
+  "その一歩をつなげよう。",
+  "Затем соедините их."
+ ],
+ [
+  "从第一步开始",
+  "從第一步開始",
+  "Take the first step",
+  "Faire le premier pas",
+  "Da el primer paso",
+  "最初の一歩から",
+  "Сделать первый шаг"
+ ],
+ [
+  "接着解开 →",
+  "接着解開 →",
+  "Pick up where you left off →",
+  "Reprendre →",
+  "Retomar →",
+  "続きから取り組む →",
+  "Продолжить →"
+ ],
+ [
+  "大学微积分 · 分部积分",
+  "大學微積分 · 分部積分",
+  "Calculus · Integration by parts",
+  "Analyse · Intégration par parties",
+  "Cálculo · Integración por partes",
+  "大学微積分・部分積分",
+  "Матанализ · Интегрирование по частям"
+ ],
+ [
+  "无需登录",
+  "無需登錄",
+  "No sign-in needed",
+  "Sans connexion",
+  "Sin iniciar sesión",
+  "ログイン不要",
+  "Без регистрации"
+ ],
+ [
+  "按自己的节奏",
+  "按自己的節奏",
+  "At your own pace",
+  "À votre rythme",
+  "A tu ritmo",
+  "自分のペースで",
+  "В своём темпе"
+ ],
+ [
+  "解题路径示意",
+  "解題路徑示意",
+  "An example learning path",
+  "Exemple de parcours",
+  "Ejemplo de recorrido",
+  "解法の道筋の例",
+  "Пример пути решения"
+ ],
+ [
+  "从一个看似复杂的问题",
+  "從一個看似複雜的問題",
+  "Start with a complex-looking problem",
+  "Partir d’un problème qui semble complexe",
+  "Empieza con un problema que parece complejo",
+  "複雑に見える問題から",
+  "Начните с непростой на вид задачи"
+ ],
+ [
+  "现在，只关注这一步",
+  "現在，只關注這一步",
+  "For now, focus on this step",
+  "Pour l’instant, concentrez-vous sur cette étape",
+  "Por ahora, céntrate en este paso",
+  "今は、この一歩に集中しよう",
+  "Сейчас — только этот шаг"
+ ],
+ [
+  "哪个部分求导后更简单？",
+  "哪個部分求導後更簡單？",
+  "Which part gets simpler when differentiated?",
+  "Quelle partie se simplifie en la dérivant ?",
+  "¿Qué parte se simplifica al derivarla?",
+  "微分すると、どちらが簡単になる？",
+  "Какая часть упрощается при дифференцировании?"
+ ],
+ [
+  "先找到一个你能开始的地方。",
+  "先找到一個你能開始的地方。",
+  "Find a place where you can begin.",
+  "Trouvez un point de départ accessible.",
+  "Encuentra un punto por donde empezar.",
+  "まずは、取りかかれるところから。",
+  "Найдите доступную точку старта."
+ ],
+ [
+  "✓ 一个选择，连接了下一步",
+  "✓ 一個選擇，連接了下一步",
+  "✓ One choice leads to the next step",
+  "✓ Un choix ouvre l’étape suivante",
+  "✓ Una elección lleva al siguiente paso",
+  "✓ 一つの選択が次の一歩につながった",
+  "✓ Один выбор ведёт к следующему шагу"
+ ],
+ [
+  "你不必一次看清整条路。",
+  "你不必一次看清整條路。",
+  "You do not need to see the whole path yet.",
+  "Pas besoin de voir tout le chemin dès le début.",
+  "No necesitas ver todo el camino todavía.",
+  "最初から道筋のすべてが見えなくても大丈夫。",
+  "Необязательно сразу видеть весь путь."
+ ],
+ [
+  "复杂的问题，也有可以开始的一步。",
+  "複雜的問題，也有可以開始的一步。",
+  "Even complex problems have a place to start.",
+  "Même un problème complexe a un point de départ.",
+  "Hasta un problema complejo tiene un primer paso.",
+  "複雑な問題にも、始められる一歩がある。",
+  "Даже у сложной задачи есть первый шаг."
+ ],
+ [
+  "先找到，眼前这一步",
+  "先找到，眼前這一步",
+  "Find the step in front of you",
+  "Trouver l’étape à votre portée",
+  "Encuentra el paso que tienes delante",
+  "目の前の一歩を見つける",
+  "Найдите ближайший шаг"
+ ],
+ [
+  "从完整问题出发，让当前目标变得清楚、可执行。",
+  "從完整問題出發，讓當前目標變得清楚、可執行。",
+  "Keep the full problem in view, with a clear, doable goal.",
+  "Gardez le problème en vue, avec un objectif clair et réalisable.",
+  "Ten presente el problema completo, con un objetivo claro y realizable.",
+  "問題全体を見ながら、今の目標を具体的に。",
+  "Сохраняйте общую задачу в поле зрения и выберите посильную цель."
+ ],
+ [
+  "把想法，慢慢连起来",
+  "把想法，慢慢連起來",
+  "Connect your ideas, one at a time",
+  "Relier vos idées, peu à peu",
+  "Conecta tus ideas, poco a poco",
+  "考えを少しずつつなげる",
+  "Соединяйте мысли постепенно"
+ ],
+ [
+  "保留已经正确的部分，找到断点，再连接成完整解法。",
+  "保留已經正確的部分，找到斷點，再連接成完整解法。",
+  "Keep what is right, find the gap, and connect a complete solution.",
+  "Conservez ce qui est juste, repérez le blocage, puis reliez la solution.",
+  "Conserva lo correcto, encuentra el bloqueo y conecta la solución completa.",
+  "正しい部分を残し、つまずいた箇所を見つけ、解法をつなげる。",
+  "Сохраните верные части, найдите пробел и соберите полное решение."
+ ],
+ [
+  "下一次，试着自己来",
+  "下一次，試着自己來",
+  "Next time, try it on your own",
+  "La prochaine fois, essayez en autonomie",
+  "La próxima vez, inténtalo por tu cuenta",
+  "次は、自分でやってみよう",
+  "В следующий раз попробуйте сами"
+ ],
+ [
+  "逐渐减少支持，用一道未展示的新题检验自己的思路。",
+  "逐漸減少支持，用一道未展示的新題檢驗自己的思路。",
+  "Reduce support gradually, then try an unseen problem.",
+  "Réduisez l’aide progressivement, puis essayez un problème inédit.",
+  "Reduce la ayuda poco a poco y prueba un problema nuevo.",
+  "少しずつ支援を減らし、初めて見る問題で考え方を確かめる。",
+  "Постепенно уменьшайте помощь и проверьте себя на новой задаче."
+ ],
+ [
+  "不是赶着得到答案。是开始拥有自己的解法。",
+  "不是趕着得到答案。是開始擁有自己的解法。",
+  "Take time to build a solution that is your own.",
+  "Prenez le temps de construire votre propre solution.",
+  "Tómate el tiempo de construir tu propia solución.",
+  "自分の解法を組み立てる時間を。",
+  "Дайте себе время построить собственное решение."
+ ],
+ [
+  "开始一次训练 ↗",
+  "開始一次訓練 ↗",
+  "Start a practice session ↗",
+  "Commencer une séance ↗",
+  "Iniciar una práctica ↗",
+  "練習を始める ↗",
+  "Начать занятие ↗"
+ ],
+ [
+  "从这里，开始解开。",
+  "從這裏，開始解開。",
+  "Your next step starts here.",
+  "Votre prochaine étape commence ici.",
+  "Tu siguiente paso empieza aquí.",
+  "ここから、ひもとこう。",
+  "Следующий шаг начинается здесь."
+ ],
+ [
+  "这次练习，把一个完整积分变成一条你能组织的思路。",
+  "這次練習，把一個完整積分變成一條你能組織的思路。",
+  "Build a coherent approach to a complete integral.",
+  "Construisez une démarche cohérente pour une intégrale complète.",
+  "Organiza un razonamiento para resolver una integral completa.",
+  "一つの積分を、自分で組み立てられる道筋に。",
+  "Выстройте последовательный подход к вычислению интеграла."
+ ],
+ [
+  "运行方式",
+  "運行方式",
+  "Mode",
+  "Mode",
+  "Modo",
+  "実行モード",
+  "Режим"
+ ],
+ [
+  "本地演示 · 无需密钥",
+  "本地演示 · 無需密鑰",
+  "Local demo · No API key",
+  "Démo locale · Sans clé API",
+  "Demo local · Sin clave API",
+  "ローカルデモ・API キー不要",
+  "Локальная демоверсия · Без ключа API"
+ ],
+ [
+  "真实 AI · 需要服务端配置",
+  "真實 AI · 需要服務端配置",
+  "Live AI · Server setup required",
+  "IA réelle · Configuration serveur requise",
+  "IA real · Requiere configurar el servidor",
+  "AI 接続・サーバー設定が必要",
+  "Реальный ИИ · Нужна настройка сервера"
+ ],
+ [
+  "演示模式使用预设路径与有限评分规则。",
+  "演示模式使用預設路徑與有限評分規則。",
+  "Demo mode uses authored paths and limited grading rules.",
+  "La démo utilise des parcours prédéfinis et une correction limitée.",
+  "La demo usa recorridos predefinidos y reglas de evaluación limitadas.",
+  "デモは事前作成した道筋と限定的な採点ルールを使います。",
+  "Демоверсия использует готовые пути и ограниченные правила проверки."
+ ],
+ [
+  "AI 不可用时会明确降级。",
+  "AI 不可用時會明確降級。",
+  "Any fallback from AI is clearly indicated.",
+  "Tout repli de l’IA est clairement signalé.",
+  "Se indica claramente si la IA pasa al modo de respaldo.",
+  "AI が使えない場合は、切り替えを明示します。",
+  "Переход с ИИ на резервный режим явно обозначается."
+ ],
+ [
+  "练习",
+  "練習",
+  "Practice",
+  "Exercice",
+  "Ejercicio",
+  "練習",
+  "Задача"
+ ],
+ [
+  "带我一步步做",
+  "帶我一步步做",
+  "Guide me step by step",
+  "Me guider pas à pas",
+  "Guíame paso a paso",
+  "一歩ずつ案内してほしい",
+  "Вести меня по шагам"
+ ],
+ [
+  "从当前子任务开始 · 结构引导",
+  "從當前子任務開始 · 結構引導",
+  "Start with one task · Guided path",
+  "Une tâche à la fois · Parcours guidé",
+  "Una tarea a la vez · Recorrido guiado",
+  "今の小さな課題から・道筋の支援あり",
+  "По одной подзадаче · С подсказанным планом"
+ ],
+ [
+  "先自己试一试",
+  "先自己試一試",
+  "Let me try first",
+  "Essayer d’abord en autonomie",
+  "Déjame intentarlo primero",
+  "まずは自分でやってみる",
+  "Сначала попробовать самому"
+ ],
+ [
+  "先不展开路径，随时可以求助",
+  "先不展開路徑，隨時可以求助",
+  "No path shown initially; help is available",
+  "Sans parcours au départ ; aide disponible",
+  "Sin recorrido al principio; puedes pedir ayuda",
+  "最初は道筋を表示しません。いつでも質問できます",
+  "План сначала скрыт; можно попросить помощь"
+ ],
+ [
+  "先看一个例子",
+  "先看一個例子",
+  "Show me an example",
+  "Voir un exemple",
+  "Ver un ejemplo",
+  "まずは例を見てみる",
+  "Сначала посмотреть пример"
+ ],
+ [
+  "单独的示例题 · 计为辅助学习",
+  "單獨的示例題 · 計爲輔助學習",
+  "Separate example · Counts as assisted learning",
+  "Exemple distinct · Apprentissage avec aide",
+  "Ejemplo aparte · Cuenta como aprendizaje con ayuda",
+  "別の例題・支援付き学習として記録",
+  "Отдельный пример · Учитывается как обучение с помощью"
+ ],
+ [
+  "预计 5–12 分钟，仅作参考。你可以随时暂停、求助或独立继续。",
+  "預計 5–12 分鐘，僅作參考。你可以隨時暫停、求助或獨立繼續。",
+  "About 5–12 minutes, as a rough guide. Pause, ask for help, or continue on your own anytime.",
+  "Environ 5 à 12 minutes, à titre indicatif. Faites une pause, demandez de l’aide ou continuez seul à tout moment.",
+  "Unos 5–12 minutos, como orientación. Puedes pausar, pedir ayuda o continuar por tu cuenta cuando quieras.",
+  "目安は 5〜12 分です。いつでも中断、質問、自主継続ができます。",
+  "Ориентировочно 5–12 минут. В любой момент можно сделать паузу, попросить помощь или продолжить самостоятельно."
+ ],
+ [
+  "首版面向 18 岁及以上大学生，仅支持已审核的分部积分题。",
+  "首版面向 18 歲及以上大學生，僅支持已審覈的分部積分題。",
+  "This version is for university students aged 18+ and supports reviewed integration-by-parts problems only.",
+  "Cette version s’adresse aux étudiants de 18 ans et plus et se limite aux exercices d’intégration par parties vérifiés.",
+  "Esta versión es para universitarios de 18 años o más y solo admite ejercicios revisados de integración por partes.",
+  "本版は 18 歳以上の大学生向けで、確認済みの部分積分問題のみ対応します。",
+  "Версия для студентов от 18 лет; доступны только проверенные задачи на интегрирование по частям."
+ ],
+ [
+  "看看，一条路径怎样连起来。",
+  "看看，一條路徑怎樣連起來。",
+  "See how a solution comes together.",
+  "Voyez comment une solution se construit.",
+  "Observa cómo se conecta una solución.",
+  "道筋がつながる様子を見てみよう。",
+  "Посмотрите, как складывается решение."
+ ],
+ [
+  "选择 x 作为 u，是因为它求导后变得更简单。最后对结果求导，可回到原来的被积函数。",
+  "選擇 x 作爲 u，是因爲它求導後變得更簡單。最後對結果求導，可回到原來的被積函數。",
+  "Choose x as u because its derivative is simpler. Differentiate the result to recover the integrand.",
+  "Choisissez x comme u car sa dérivée est plus simple. Dérivez le résultat pour retrouver l’intégrande.",
+  "Elige x como u porque su derivada es más sencilla. Deriva el resultado para recuperar el integrando.",
+  "u に x を選ぶのは、微分すると簡単になるためです。結果を微分すると元の被積分関数に戻ります。",
+  "Выбираем u = x, поскольку производная проще. Производная результата должна совпасть с подынтегральной функцией."
+ ],
+ [
+  "查看示例已记录为辅助学习；此示例不会用作未见检验题。",
+  "查看示例已記錄爲輔助學習；此示例不會用作未見檢驗題。",
+  "Viewing this example is recorded as assistance. It will not be used as an unseen check.",
+  "Cet exemple est enregistré comme aide et ne servira pas de test inédit.",
+  "Ver este ejemplo se registra como ayuda; no se usará como prueba inédita.",
+  "例題の閲覧は支援として記録され、この問題は未見問題の確認には使われません。",
+  "Просмотр примера учтён как помощь. Он не будет использован для проверки на новой задаче."
+ ],
+ [
+  "轮到你了 →",
+  "輪到你了 →",
+  "Your turn →",
+  "À vous →",
+  "Tu turno →",
+  "次はあなたの番 →",
+  "Теперь ваша очередь →"
+ ],
+ [
+  "这一道，由你来组织。",
+  "這一道，由你來組織。",
+  "This time, you choose the path.",
+  "Cette fois, organisez votre démarche.",
+  "Esta vez, tú eliges el camino.",
+  "今度は、自分で道筋を組み立てよう。",
+  "На этот раз план выбираете вы."
+ ],
+ [
+  "不用走很远，先走这一步。",
+  "不用走很遠，先走這一步。",
+  "Just focus on the next step.",
+  "Concentrez-vous sur la prochaine étape.",
+  "Céntrate en el siguiente paso.",
+  "まずは、この一歩から。",
+  "Сосредоточьтесь на ближайшем шаге."
+ ],
+ [
+  "已保存。下一次从这里接着解开。",
+  "已保存。下一次從這裏接着解開。",
+  "Saved. Pick up here next time.",
+  "Enregistré. Reprenez ici la prochaine fois.",
+  "Guardado. Retoma desde aquí la próxima vez.",
+  "保存しました。次回はここから続けられます。",
+  "Сохранено. В следующий раз продолжите отсюда."
+ ],
+ [
+  "暂停并保存",
+  "暫停並保存",
+  "Pause and save",
+  "Pause et sauvegarde",
+  "Pausar y guardar",
+  "中断して保存",
+  "Пауза и сохранение"
+ ],
+ [
+  "演示模式 · 使用预设解题路径",
+  "演示模式 · 使用預設解題路徑",
+  "Demo mode · Authored learning paths",
+  "Mode démo · Parcours prédéfinis",
+  "Modo demo · Recorridos predefinidos",
+  "デモモード・事前作成の道筋を使用",
+  "Деморежим · Готовые пути решения"
+ ],
+ [
+  "真实 AI 模式 · 服务端教学接口",
+  "真實 AI 模式 · 服務端教學接口",
+  "Live AI · Server-side tutoring",
+  "IA réelle · Accompagnement côté serveur",
+  "IA real · Tutoría en el servidor",
+  "AI 接続モード・サーバー側の学習支援",
+  "Режим ИИ · Обучение через сервер"
+ ],
+ [
+  "独立检验",
+  "獨立檢驗",
+  "Independent check",
+  "Test en autonomie",
+  "Prueba independiente",
+  "自主確認",
+  "Самостоятельная проверка"
+ ],
+ [
+  "细步引导",
+  "細步引導",
+  "Step-by-step guidance",
+  "Guidage détaillé",
+  "Guía paso a paso",
+  "細かい手順の支援",
+  "Подробные шаги"
+ ],
+ [
+  "减少引导",
+  "減少引導",
+  "Reduced guidance",
+  "Guidage allégé",
+  "Guía reducida",
+  "支援を減らす",
+  "Меньше подсказок"
+ ],
+ [
+  "自主组织",
+  "自主組織",
+  "Your own approach",
+  "Démarche autonome",
+  "Tu propio enfoque",
+  "自分で組み立てる",
+  "Собственный план"
+ ],
+ [
+  "定义域：",
+  "定義域：",
+  "Domain: ",
+  "Domaine : ",
+  "Dominio: ",
+  "定義域：",
+  "Область определения: "
+ ],
+ [
+  "目标：求原函数",
+  "目標：求原函數",
+  "Goal: find an antiderivative",
+  "Objectif : trouver une primitive",
+  "Objetivo: hallar una primitiva",
+  "目標：原始関数を求める",
+  "Цель: найти первообразную"
+ ],
+ [
+  "，并验证你的结果",
+  "，並驗證你的結果",
+  " and verify your result",
+  " et vérifier le résultat",
+  " y comprobar el resultado",
+  "、そして結果を確かめる",
+  " и проверить результат"
+ ],
+ [
+  "把局部结果，连接成完整解法。",
+  "把局部結果，連接成完整解法。",
+  "Connect the pieces into a full solution.",
+  "Reliez les étapes en une solution complète.",
+  "Conecta las partes en una solución completa.",
+  "部分的な結果を、完全な解法につなげよう。",
+  "Соберите из отдельных частей полное решение."
+ ],
+ [
+  "试着写下你的完整解法。",
+  "試着寫下你的完整解法。",
+  "Try writing your complete solution.",
+  "Essayez de rédiger votre solution complète.",
+  "Intenta escribir tu solución completa.",
+  "解法全体を書いてみよう。",
+  "Попробуйте записать полное решение."
+ ],
+ [
+  "从设置走到完整结果",
+  "從設置走到完整結果",
+  "From setup to a complete result",
+  "Du choix initial au résultat complet",
+  "Del planteamiento al resultado completo",
+  "設定から答えまで",
+  "От выбора метода до результата"
+ ],
+ [
+  "这次不展开解题路径。整题提交后才评分；求助会退出无提示检验。",
+  "這次不展開解題路徑。整題提交後才評分；求助會退出無提示檢驗。",
+  "No path is shown. Grading happens after final submission. Asking for help ends the unassisted check.",
+  "Aucun parcours affiché. La correction vient après l’envoi final. Demander de l’aide met fin au test sans aide.",
+  "No se muestra el recorrido. Se evalúa tras el envío final. Pedir ayuda termina la prueba sin pistas.",
+  "道筋は表示しません。全体を提出してから採点します。質問すると無支援の確認は終了します。",
+  "План скрыт. Проверка — только после окончательной отправки. Запрос помощи завершает проверку без подсказок."
+ ],
+ [
+  "你可以直接提交完整解法，也可以保留当前过程后求助。",
+  "你可以直接提交完整解法，也可以保留當前過程後求助。",
+  "Submit a full solution, or keep your work and ask for help.",
+  "Envoyez une solution complète, ou gardez votre travail et demandez de l’aide.",
+  "Envía una solución completa o conserva tu trabajo y pide ayuda.",
+  "解法をそのまま提出するか、今の過程を残して質問できます。",
+  "Отправьте полное решение или сохраните работу и попросите помощь."
+ ],
+ [
+  "现在这些结果怎样组成原题的解法？把原函数、关键选择和检查方式连起来。",
+  "現在這些結果怎樣組成原題的解法？把原函數、關鍵選擇和檢查方式連起來。",
+  "How do these results solve the original problem? Connect the antiderivative, key choices, and verification.",
+  "Comment ces résultats résolvent-ils le problème ? Reliez la primitive, les choix clés et la vérification.",
+  "¿Cómo resuelven estos resultados el problema? Conecta la primitiva, las decisiones clave y la comprobación.",
+  "結果をどうつなげれば元の問題が解けますか。原始関数、重要な選択、確認方法をつなげてみましょう。",
+  "Как из этих результатов получается решение? Свяжите первообразную, ключевые решения и проверку."
+ ],
+ [
+  "自己组织拆法、计算与检查；需要时再展开局部任务。",
+  "自己組織拆法、計算與檢查；需要時再展開局部任務。",
+  "Organize the setup, calculation, and verification yourself. Expand a task when needed.",
+  "Organisez le choix, le calcul et la vérification ; détaillez une tâche si nécessaire.",
+  "Organiza el planteamiento, el cálculo y la comprobación; amplía una tarea si lo necesitas.",
+  "設定、計算、確認を自分で組み立て、必要なら小さな課題を開きましょう。",
+  "Самостоятельно выберите метод, выполните вычисления и проверку; при необходимости раскройте подзадачу."
+ ],
+ [
+  "待复核",
+  "待複覈",
+  "Needs review",
+  "À vérifier",
+  "Pendiente de revisión",
+  "要確認",
+  "Требует проверки"
+ ],
+ [
+  "这一步的反馈",
+  "這一步的反饋",
+  "Feedback on this step",
+  "Retour sur cette étape",
+  "Comentarios sobre este paso",
+  "この手順へのフィードバック",
+  "Обратная связь по шагу"
+ ],
+ [
+  "提示已记录",
+  "提示已記錄",
+  "Hint recorded",
+  "Indice enregistré",
+  "Pista registrada",
+  "ヒントを記録しました",
+  "Подсказка учтена"
+ ],
+ [
+  "退出检验，获得帮助",
+  "退出檢驗，獲得幫助",
+  "Leave the check and get help",
+  "Quitter le test pour obtenir de l’aide",
+  "Salir de la prueba y obtener ayuda",
+  "確認を終了して支援を受ける",
+  "Выйти из проверки и получить помощь"
+ ],
+ [
+  "保留过程，带我一步步做",
+  "保留過程，帶我一步步做",
+  "Keep my work and guide me",
+  "Garder mon travail et me guider",
+  "Conservar mi trabajo y guiarme",
+  "過程を残して案内してもらう",
+  "Сохранить работу и перейти к шагам"
+ ],
+ [
+  "这一步再拆小一点",
+  "這一步再拆小一點",
+  "Break this step down further",
+  "Décomposer davantage cette étape",
+  "Divide más este paso",
+  "この手順をさらに小さくする",
+  "Разбить шаг на более мелкие"
+ ],
+ [
+  "给我一点提示",
+  "給我一點提示",
+  "Give me a hint",
+  "Donnez-moi un indice",
+  "Dame una pista",
+  "ヒントを見る",
+  "Дать подсказку"
+ ],
+ [
+  "我想自己继续 ↗",
+  "我想自己繼續 ↗",
+  "Let me continue on my own ↗",
+  "Continuer en autonomie ↗",
+  "Quiero continuar por mi cuenta ↗",
+  "自分で続けたい ↗",
+  "Продолжить самостоятельно ↗"
+ ],
+ [
+  "查看整体路径",
+  "查看整體路徑",
+  "View the overall path",
+  "Voir le parcours global",
+  "Ver el recorrido completo",
+  "全体の道筋を見る",
+  "Посмотреть весь план"
+ ],
+ [
+  "查看完整讲解",
+  "查看完整講解",
+  "View the worked solution",
+  "Voir la solution détaillée",
+  "Ver la solución explicada",
+  "解説全体を見る",
+  "Посмотреть полное объяснение"
+ ],
+ [
+  "系统提供的完整讲解 · H4",
+  "系統提供的完整講解 · H4",
+  "System-provided solution · H4",
+  "Solution fournie par le système · H4",
+  "Solución del sistema · H4",
+  "システムによる解説全体・H4",
+  "Полное объяснение системы · H4"
+ ],
+ [
+  "这是系统补充，已记入帮助账本，不属于你独立写出的推导。",
+  "這是系統補充，已記入幫助賬本，不屬於你獨立寫出的推導。",
+  "This is system-provided help, recorded as assistance; it is not your independent derivation.",
+  "Cet ajout du système est enregistré comme aide, pas comme votre raisonnement autonome.",
+  "Esta ayuda del sistema está registrada; no es una deducción independiente tuya.",
+  "これはシステムの補足であり、支援として記録されます。自主的な導出とは区別します。",
+  "Это дополнение системы учтено как помощь, а не как самостоятельный вывод."
+ ],
+ [
+  "你留下的过程",
+  "你留下的過程",
+  "Your submitted work",
+  "Votre travail envoyé",
+  "Tu trabajo enviado",
+  "あなたが残した過程",
+  "Ваши записи решения"
+ ],
+ [
+  "提交记录保留原样。修改后重新提交，会新增记录。",
+  "提交記錄保留原樣。修改後重新提交，會新增記錄。",
+  "Submissions stay unchanged. Revisions create new entries.",
+  "Les envois sont conservés. Une modification crée une nouvelle entrée.",
+  "Los envíos se conservan. Las revisiones crean registros nuevos.",
+  "提出記録はそのまま残ります。修正して再提出すると新しい記録になります。",
+  "Отправленные записи сохраняются. Исправления добавляются отдельной записью."
+ ],
+ [
+  "第",
+  "第",
+  "No. ",
+  "Nº ",
+  "N.º ",
+  "第",
+  "№ "
+ ],
+ [
+  "次提交 ·",
+  "次提交 ·",
+  " submission ·",
+  " envoi ·",
+  " envío ·",
+  "回の提出・",
+  " отправка ·"
+ ],
+ [
+  "已确认",
+  "已確認",
+  "Verified",
+  "Vérifié",
+  "Verificado",
+  "確認済み",
+  "Подтверждено"
+ ],
+ [
+  "可以修正",
+  "可以修正",
+  "Revise this",
+  "À corriger",
+  "Puedes corregirlo",
+  "修正できます",
+  "Можно исправить"
+ ],
+ [
+  "复制到作答区并修正",
+  "複製到作答區並修正",
+  "Copy to the editor and revise",
+  "Copier dans la réponse et corriger",
+  "Copiar en la respuesta y corregir",
+  "解答欄にコピーして修正",
+  "Скопировать в ответ и исправить"
+ ],
+ [
+  "给自己的思路，留一点空间。",
+  "給自己的思路，留一點空間。",
+  "Give your own thinking some room.",
+  "Laissez de la place à votre réflexion.",
+  "Dale espacio a tu razonamiento.",
+  "自分の考えに、少し余白を。",
+  "Дайте место собственным мыслям."
+ ],
+ [
+  "检验期间不展示策略提示。草稿会自动保存在本机。",
+  "檢驗期間不展示策略提示。草稿會自動保存在本機。",
+  "No strategy hints during the check. Drafts save automatically on this device.",
+  "Pas d’indice stratégique pendant le test. Le brouillon est enregistré sur cet appareil.",
+  "No hay pistas de estrategia durante la prueba. Los borradores se guardan en este dispositivo.",
+  "確認中は方針のヒントを表示しません。下書きはこの端末に自動保存されます。",
+  "Во время проверки нет подсказок по стратегии. Черновик сохраняется на этом устройстве."
+ ],
+ [
+  "你正在减少引导。此前获得的支持仍保留在本次记录中。",
+  "你正在減少引導。此前獲得的支持仍保留在本次記錄中。",
+  "Guidance is reduced. Earlier assistance remains in this attempt’s record.",
+  "Le guidage est réduit. Les aides précédentes restent dans cette tentative.",
+  "Se ha reducido la guía. La ayuda anterior sigue registrada en este intento.",
+  "支援を減らしています。これまでの支援は今回の記録に残ります。",
+  "Подсказок стало меньше. Ранее полученная помощь остаётся в записи попытки."
+ ],
+ [
+  "这一次，你自己连起来了。",
+  "這一次，你自己連起來了。",
+  "This time, you connected it yourself.",
+  "Cette fois, vous avez tout relié vous-même.",
+  "Esta vez, lo conectaste por tu cuenta.",
+  "今度は、自分でつなげられた。",
+  "На этот раз вы соединили всё сами."
+ ],
+ [
+  "先把这次尝试，留下来。",
+  "先把這次嘗試，留下來。",
+  "Keep this attempt as a starting point.",
+  "Gardez cette tentative comme point de départ.",
+  "Guarda este intento como punto de partida.",
+  "まずは、この挑戦を残そう。",
+  "Сохраните эту попытку как отправную точку."
+ ],
+ [
+  "这道题走通了。",
+  "這道題走通了。",
+  "You worked through this problem.",
+  "Vous avez mené ce problème à son terme.",
+  "Has completado este problema.",
+  "この問題の道筋がつながった。",
+  "Вы прошли эту задачу до конца."
+ ],
+ [
+  "在结构引导下完成",
+  "在結構引導下完成",
+  "Completed with a guided path",
+  "Terminé avec un parcours guidé",
+  "Completado con recorrido guiado",
+  "道筋の支援付きで完了",
+  "Выполнено с подсказанным планом"
+ ],
+ [
+  "在讲解或示例辅助下完成",
+  "在講解或示例輔助下完成",
+  "Completed with examples or explanations",
+  "Terminé avec exemples ou explications",
+  "Completado con ejemplos o explicaciones",
+  "例や解説の支援付きで完了",
+  "Выполнено с примерами или объяснениями"
+ ],
+ [
+  "平台内无提示完成",
+  "平臺內無提示完成",
+  "Completed without in-app hints",
+  "Terminé sans indice dans l’application",
+  "Completado sin pistas en la aplicación",
+  "アプリ内のヒントなしで完了",
+  "Выполнено без подсказок приложения"
+ ],
+ [
+  "独立检验 · 尚未通过",
+  "獨立檢驗 · 尚未通過",
+  "Independent check · Not yet passed",
+  "Test en autonomie · Pas encore validé",
+  "Prueba independiente · Aún no superada",
+  "自主確認・まだ未達成",
+  "Самопроверка · Пока не пройдена"
+ ],
+ [
+  "。这次记录不代表你已经掌握或无法掌握。",
+  "。這次記錄不代表你已經掌握或無法掌握。",
+  ". This attempt does not determine whether you have mastered the topic.",
+  ". Cette tentative ne détermine pas votre maîtrise du sujet.",
+  ". Este intento no determina si dominas el tema.",
+  "。今回の記録だけで習得の可否は判断しません。",
+  ". Одна попытка не определяет, освоена ли тема."
+ ],
+ [
+  "。一次记录，是下一步的起点。",
+  "。一次記錄，是下一步的起點。",
+  ". One record is a starting point for the next step.",
+  ". Une trace est le point de départ de la prochaine étape.",
+  ". Un registro es el punto de partida del siguiente paso.",
+  "。一つの記録が、次の一歩の始まりです。",
+  ". Одна запись — начало следующего шага."
+ ],
+ [
+  "有作答证据的节点",
+  "有作答證據的節點",
+  "Nodes with submitted evidence",
+  "Étapes avec réponse vérifiée",
+  "Nodos con evidencia enviada",
+  "解答の根拠がある節点",
+  "Узлы с подтверждённой работой"
+ ],
+ [
+  "局部未用额外提示",
+  "局部未用額外提示",
+  "Local steps without extra hints",
+  "Étapes sans indice supplémentaire",
+  "Pasos locales sin pistas adicionales",
+  "追加ヒントなしの小手順",
+  "Шаги без дополнительных подсказок"
+ ],
+ [
+  "本次支持记录",
+  "本次支持記錄",
+  "Assistance events this attempt",
+  "Aides pour cette tentative",
+  "Ayudas en este intento",
+  "今回の支援記録",
+  "Записи помощи в этой попытке"
+ ],
+ [
+  "你主动减少了引导，自行组织后续。",
+  "你主動減少了引導，自行組織後續。",
+  "You chose less guidance and planned what came next.",
+  "Vous avez réduit l’aide et organisé la suite.",
+  "Elegiste menos guía y organizaste lo que siguió.",
+  "自分で支援を減らし、その後を組み立てました。",
+  "Вы уменьшили помощь и сами спланировали продолжение."
+ ],
+ [
+  "本次按所选支持程度完成。",
+  "本次按所選支持程度完成。",
+  "Completed with the chosen level of support.",
+  "Terminé avec le niveau d’aide choisi.",
+  "Completado con el nivel de ayuda elegido.",
+  "選んだ支援レベルで取り組みました。",
+  "Завершено с выбранным уровнем поддержки."
+ ],
+ [
+  "局部无额外提示不等于整题独立。无法验证是否使用过平台外工具。",
+  "局部無額外提示不等於整題獨立。無法驗證是否使用過平臺外工具。",
+  "Local steps without extra hints do not mean full independence. Use of outside tools cannot be verified.",
+  "Des étapes sans indice ne signifient pas une autonomie totale. L’usage d’outils externes ne peut être vérifié.",
+  "Los pasos sin pistas extra no implican independencia total. No se puede verificar el uso de herramientas externas.",
+  "追加ヒントなしの小手順は、全問の自力解答とは異なります。外部ツールの使用は確認できません。",
+  "Шаги без дополнительных подсказок не означают полной самостоятельности. Внешние инструменты проверить нельзя."
+ ],
+ [
+  "查看学生作答与帮助账本",
+  "查看學生作答與幫助賬本",
+  "View submissions and assistance log",
+  "Voir les réponses et le journal d’aide",
+  "Ver respuestas y registro de ayuda",
+  "解答と支援記録を見る",
+  "Посмотреть ответы и журнал помощи"
+ ],
+ [
+  "学生提交 ·",
+  "學生提交 ·",
+  "Student submission ·",
+  "Réponse de l’étudiant ·",
+  "Respuesta del estudiante ·",
+  "学習者の提出・",
+  "Ответ учащегося ·"
+ ],
+ [
+  "换一道，试着自己来。",
+  "換一道，試着自己來。",
+  "Try another one on your own.",
+  "Essayez un autre problème en autonomie.",
+  "Prueba otro por tu cuenta.",
+  "別の問題を、自分でやってみよう。",
+  "Попробуйте другую задачу самостоятельно."
+ ],
+ [
+  "不同题目难度不同；一次通过不会被换算成掌握率。",
+  "不同題目難度不同；一次通過不會被換算成掌握率。",
+  "Problems vary in difficulty. One pass is not a mastery percentage.",
+  "La difficulté varie. Une réussite n’est pas un taux de maîtrise.",
+  "La dificultad varía. Un acierto no equivale a un porcentaje de dominio.",
+  "問題ごとに難しさは異なります。一度の成功を習得率には換算しません。",
+  "Сложность задач различается. Одна удачная попытка не превращается в процент освоения."
+ ],
+ [
+  "换一道，自己试试 →",
+  "換一道，自己試試 →",
+  "Try another one yourself →",
+  "Essayer un autre en autonomie →",
+  "Probar otro por tu cuenta →",
+  "別の問題を自分で →",
+  "Попробовать другую задачу →"
+ ],
+ [
+  "3 道保留检验题均已展示，没有剩余未见题。可以回到训练继续复习。",
+  "3 道保留檢驗題均已展示，沒有剩餘未見題。可以回到訓練繼續複習。",
+  "All 3 reserved checks have been seen. No unseen checks remain; return to practice to review.",
+  "Les 3 tests réservés ont été vus. Il n’en reste aucun d’inédit ; revenez aux exercices.",
+  "Ya se mostraron las 3 pruebas reservadas. No quedan inéditas; vuelve a practicar.",
+  "確認用の 3 問はすべて表示済みです。未見問題は残っていません。練習に戻って復習できます。",
+  "Все 3 контрольные задачи уже показаны. Новых больше нет; вернитесь к практике."
+ ],
+ [
+  "查看我的进展 →",
+  "查看我的進展 →",
+  "View my progress →",
+  "Voir mes progrès →",
+  "Ver mi progreso →",
+  "学習の記録を見る →",
+  "Посмотреть мой прогресс →"
+ ],
+ [
+  "每一次连接，都留下痕迹。",
+  "每一次連接，都留下痕跡。",
+  "Every connection leaves a trace.",
+  "Chaque lien laisse une trace.",
+  "Cada conexión deja una huella.",
+  "つなげた一歩が、記録になる。",
+  "Каждая связь оставляет след."
+ ],
+ [
+  "本机学习记录 · 不保证跨设备同步",
+  "本機學習記錄 · 不保證跨設備同步",
+  "Saved on this device · No guaranteed cross-device sync",
+  "Enregistré ici · Synchronisation entre appareils non garantie",
+  "Guardado aquí · Sin sincronización garantizada entre dispositivos",
+  "この端末に保存・端末間の同期は保証されません",
+  "Сохранено здесь · Синхронизация между устройствами не гарантируется"
+ ],
+ [
+  "引导式完成",
+  "引導式完成",
+  "Guided completions",
+  "Exercices terminés avec aide",
+  "Completados con guía",
+  "支援付きで完了",
+  "Выполнено с помощью"
+ ],
+ [
+  "待回看",
+  "待回看",
+  "To revisit",
+  "À revoir",
+  "Para repasar",
+  "振り返り待ち",
+  "Повторить"
+ ],
+ [
+  "第一条路径，等你开始。",
+  "第一條路徑，等你開始。",
+  "Your first path is waiting.",
+  "Votre premier parcours vous attend.",
+  "Tu primer recorrido te espera.",
+  "最初の道筋が、あなたを待っている。",
+  "Первый путь ждёт вас."
+ ],
+ [
+  "这里还没有学习记录。不需要先证明自己会做。",
+  "這裏還沒有學習記錄。不需要先證明自己會做。",
+  "No learning records yet. You do not need to prove anything before starting.",
+  "Aucune trace d’apprentissage. Pas besoin de prouver quoi que ce soit pour commencer.",
+  "Aún no hay registros. No tienes que demostrar nada antes de empezar.",
+  "まだ学習記録はありません。できると証明してから始める必要はありません。",
+  "Пока нет записей. Чтобы начать, не нужно ничего доказывать."
+ ],
+ [
+  "待复核 · 过程已保留",
+  "待複覈 · 過程已保留",
+  "Needs review · Work preserved",
+  "À vérifier · Travail conservé",
+  "Pendiente de revisión · Trabajo conservado",
+  "要確認・過程は保存済み",
+  "Требует проверки · Работа сохранена"
+ ],
+ [
+  "尚未完成 · 可继续",
+  "尚未完成 · 可繼續",
+  "In progress · Resume anytime",
+  "En cours · Reprise possible",
+  "En curso · Puedes continuar",
+  "未完了・続けられます",
+  "Не завершено · Можно продолжить"
+ ],
+ [
+  "支持程度",
+  "支持程度",
+  "Guidance level",
+  "Niveau d’aide",
+  "Nivel de ayuda",
+  "支援レベル",
+  "Уровень помощи"
+ ],
+ [
+  "次支持 ·",
+  "次支持 ·",
+  " assistance events ·",
+  " aides ·",
+  " ayudas ·",
+  "回の支援・",
+  " записей помощи ·"
+ ],
+ [
+  "个已确认局部步骤",
+  "個已確認局部步驟",
+  " verified local steps",
+  " étapes locales vérifiées",
+  " pasos locales verificados",
+  "個の確認済み小手順",
+  " подтверждённых локальных шагов"
+ ],
+ [
+  "查看",
+  "查看",
+  "View ",
+  "Voir ",
+  "Ver ",
+  "表示：",
+  "Открыть "
+ ],
+ [
+  "记录",
+  "記錄",
+  "record",
+  "historique",
+  "registro",
+  "記録",
+  "запись"
+ ],
+ [
+  "并继续",
+  "並繼續",
+  "and continue",
+  "et continuer",
+  "y continuar",
+  "続きへ",
+  "и продолжить"
+ ],
+ [
+  "记录仅在当前浏览器保存，可被本机修改，不是可信考试成绩。",
+  "記錄僅在當前瀏覽器保存，可被本機修改，不是可信考試成績。",
+  "Records are stored in this browser and can be edited locally. They are not secure exam results.",
+  "Les données sont enregistrées dans ce navigateur et modifiables localement. Ce ne sont pas des résultats d’examen sécurisés.",
+  "Los registros se guardan en este navegador y pueden modificarse. No son resultados de exámenes seguros.",
+  "記録はこのブラウザーに保存され、端末上で変更できます。信頼できる試験結果ではありません。",
+  "Записи хранятся в этом браузере и могут быть изменены. Это не защищённые результаты экзамена."
+ ],
+ [
+  "确认清除当前浏览器中的全部 LEMMA 演示与学习记录？此操作不可撤销。",
+  "確認清除當前瀏覽器中的全部 LEMMA 演示與學習記錄？此操作不可撤銷。",
+  "Delete all LEMMA demo and learning records in this browser? This cannot be undone.",
+  "Supprimer toutes les données LEMMA de ce navigateur ? Cette action est irréversible.",
+  "¿Eliminar todos los registros de LEMMA de este navegador? No se puede deshacer.",
+  "このブラウザーの LEMMA のデモ・学習記録をすべて削除しますか。この操作は取り消せません。",
+  "Удалить все записи LEMMA в этом браузере? Это действие нельзя отменить."
+ ],
+ [
+  "本机记录已清除。",
+  "本機記錄已清除。",
+  "Local records cleared.",
+  "Données locales effacées.",
+  "Registros locales eliminados.",
+  "端末の記録を削除しました。",
+  "Локальные записи удалены."
+ ],
+ [
+  "清除本地演示记录",
+  "清除本地演示記錄",
+  "Clear local demo records",
+  "Effacer les données de démo",
+  "Eliminar registros de la demo",
+  "ローカルデモ記録を削除",
+  "Удалить локальные записи демо"
+ ],
+ [
+  "减少动态",
+  "減少動態",
+  "Reduce motion",
+  "Réduire les animations",
+  "Reducir animaciones",
+  "動きを減らす",
+  "Уменьшить анимацию"
+ ],
+ [
+  "学习训练工具 · 不承诺提分",
+  "學習訓練工具 · 不承諾提分",
+  "Learning practice tool · No score guarantees",
+  "Outil d’apprentissage · Aucun résultat garanti",
+  "Herramienta de práctica · Sin garantía de notas",
+  "学習練習ツール・成績向上は保証しません",
+  "Учебный тренажёр · Без гарантии оценок"
+ ],
+ [
+  "导出记录",
+  "導出記錄",
+  "Export records",
+  "Exporter les données",
+  "Exportar registros",
+  "記録をエクスポート",
+  "Экспорт записей"
+ ],
+ [
+  "关闭提示",
+  "關閉提示",
+  "Dismiss notice",
+  "Fermer le message",
+  "Cerrar aviso",
+  "通知を閉じる",
+  "Закрыть уведомление"
+ ],
+ [
+  "你的完整原函数",
+  "你的完整原函數",
+  "Your complete antiderivative",
+  "Votre primitive complète",
+  "Tu primitiva completa",
+  "原始関数の完全な形",
+  "Ваша полная первообразная"
+ ],
+ [
+  "例如：e^x*(x-1)+C",
+  "例如：e^x*(x-1)+C",
+  "For example: e^x*(x-1)+C",
+  "Par exemple : e^x*(x-1)+C",
+  "Por ejemplo: e^x*(x-1)+C",
+  "例：e^x*(x-1)+C",
+  "Например: e^x*(x-1)+C"
+ ],
+ [
+  "使用 x、e^x、sin(x)、ln(x) 等",
+  "使用 x、e^x、sin(x)、ln(x) 等",
+  "Use x, e^x, sin(x), ln(x), etc.",
+  "Utilisez x, e^x, sin(x), ln(x), etc.",
+  "Usa x, e^x, sin(x), ln(x), etc.",
+  "x、e^x、sin(x)、ln(x) などを使用",
+  "x, e^x, sin(x), ln(x) и т. д."
+ ],
+ [
+  "（函数部分）",
+  "（函數部分）",
+  "(function only)",
+  "(fonction seule)",
+  "(solo la función)",
+  "（関数部分）",
+  "(только функция)"
+ ],
+ [
+  "（导数部分）",
+  "（導數部分）",
+  "(derivative only)",
+  "(dérivée seule)",
+  "(solo la derivada)",
+  "（導関数部分）",
+  "(только производная)"
+ ],
+ [
+  "你会怎样验证？",
+  "你會怎樣驗證？",
+  "How will you verify it?",
+  "Comment vérifier ?",
+  "¿Cómo lo comprobarás?",
+  "どう確認しますか？",
+  "Как вы это проверите?"
+ ],
+ [
+  "选择验证方式",
+  "選擇驗證方式",
+  "Choose a verification method",
+  "Choisir une vérification",
+  "Elige cómo comprobarlo",
+  "確認方法を選ぶ",
+  "Выберите способ проверки"
+ ],
+ [
+  "对原函数求导，与被积函数比较",
+  "對原函數求導，與被積函數比較",
+  "Differentiate the result and compare it with the integrand",
+  "Dériver la primitive et comparer à l’intégrande",
+  "Derivar la primitiva y compararla con el integrando",
+  "原始関数を微分し、被積分関数と比べる",
+  "Продифференцировать и сравнить с подынтегральной функцией"
+ ],
+ [
+  "看表达式是否相似",
+  "看表達式是否相似",
+  "See whether the expressions look alike",
+  "Regarder si les expressions se ressemblent",
+  "Ver si las expresiones se parecen",
+  "式の見た目が似ているか見る",
+  "Сравнить внешний вид выражений"
+ ],
+ [
+  "为什么这样选 u？",
+  "爲什麼這樣選 u？",
+  "Why choose u this way?",
+  "Pourquoi ce choix de u ?",
+  "¿Por qué elegiste así u?",
+  "なぜこの u を選びますか？",
+  "Почему выбран такой u?"
+ ],
+ [
+  "连接你的选择与目标",
+  "連接你的選擇與目標",
+  "Connect your choice to the goal",
+  "Relier votre choix à l’objectif",
+  "Relaciona tu elección con el objetivo",
+  "選択と目標をつなげる",
+  "Свяжите выбор с целью"
+ ],
+ [
+  "它求导后更简单，使剩余积分更容易",
+  "它求導後更簡單，使剩餘積分更容易",
+  "Its derivative is simpler, making the remaining integral easier",
+  "Sa dérivée est plus simple, ce qui facilite l’intégrale restante",
+  "Su derivada es más sencilla y facilita la integral restante",
+  "微分すると簡単になり、残りの積分がしやすくなる",
+  "Производная проще, поэтому оставшийся интеграл легче"
+ ],
+ [
+  "因为它写在最前面",
+  "因爲它寫在最前面",
+  "Because it is written first",
+  "Parce qu’il est écrit en premier",
+  "Porque aparece primero",
+  "最初に書かれているから",
+  "Потому что он записан первым"
+ ],
+ [
+  "你的解题过程",
+  "你的解題過程",
+  "Your working",
+  "Votre démarche",
+  "Tu procedimiento",
+  "あなたの解答過程",
+  "Ваш ход решения"
+ ],
+ [
+  "思路便签",
+  "思路便籤",
+  "Thinking notes",
+  "Notes de réflexion",
+  "Notas de razonamiento",
+  "考えのメモ",
+  "Заметки"
+ ],
+ [
+  "可选 · 保存但不自动评判自由文字",
+  "可選 · 保存但不自動評判自由文字",
+  "Optional · Free text is saved, not automatically graded",
+  "Facultatif · Texte libre enregistré, non corrigé automatiquement",
+  "Opcional · El texto libre se guarda, no se evalúa automáticamente",
+  "任意・自由記述は保存しますが自動採点しません",
+  "Необязательно · Текст сохраняется без автоматической оценки"
+ ],
+ [
+  "把你的拆法、计算过程或暂时的想法留在这里。",
+  "把你的拆法、計算過程或暫時的想法留在這裏。",
+  "Keep your setup, calculations, or tentative ideas here.",
+  "Notez ici vos choix, calculs ou idées provisoires.",
+  "Anota aquí tu planteamiento, cálculos o ideas provisionales.",
+  "設定、計算過程、途中の考えをここに残しましょう。",
+  "Запишите здесь выбор метода, вычисления или предварительные идеи."
+ ],
+ [
+  "我注意到……所以我准备……",
+  "我注意到……所以我準備……",
+  "I noticed… so I plan to…",
+  "J’ai remarqué… donc je vais…",
+  "He observado… así que voy a…",
+  "気づいたことは……だから次は……",
+  "Я заметил… поэтому собираюсь…"
+ ],
+ [
+  "↵ 提交 · 支持键盘操作",
+  "↵ 提交 · 支持鍵盤操作",
+  "↵ Submit · Keyboard accessible",
+  "↵ Envoyer · Accessible au clavier",
+  "↵ Enviar · Accesible con teclado",
+  "↵ 提出・キーボード操作対応",
+  "↵ Отправить · Доступно с клавиатуры"
+ ],
+ [
+  "正在检查…",
+  "正在檢查…",
+  "Checking…",
+  "Vérification…",
+  "Comprobando…",
+  "確認中…",
+  "Проверка…"
+ ],
+ [
+  "保存这个量，继续下一个",
+  "保存這個量，繼續下一個",
+  "Save this value and continue",
+  "Enregistrer puis continuer",
+  "Guardar este valor y continuar",
+  "この値を保存して次へ",
+  "Сохранить значение и продолжить"
+ ],
+ [
+  "整题提交，查看结果",
+  "整題提交，查看結果",
+  "Submit the full answer and see results",
+  "Envoyer la réponse complète et voir le résultat",
+  "Enviar toda la respuesta y ver el resultado",
+  "全体を提出して結果を見る",
+  "Отправить весь ответ и увидеть результат"
+ ],
+ [
+  "提交完整解法",
+  "提交完整解法",
+  "Submit complete solution",
+  "Envoyer la solution complète",
+  "Enviar solución completa",
+  "解法全体を提出",
+  "Отправить полное решение"
+ ],
+ [
+  "提交这一步",
+  "提交這一步",
+  "Submit this step",
+  "Envoyer cette étape",
+  "Enviar este paso",
+  "この手順を提出",
+  "Отправить этот шаг"
+ ],
+ [
+  "你正在连接的路径",
+  "你正在連接的路徑",
+  "The path you are building",
+  "Le parcours que vous construisez",
+  "El recorrido que construyes",
+  "今つなげている道筋",
+  "Путь, который вы строите"
+ ],
+ [
+  "目标连在一起，答案由你写下。",
+  "目標連在一起，答案由你寫下。",
+  "The goals connect. You write the solution.",
+  "Les objectifs se relient. Vous écrivez la solution.",
+  "Los objetivos se conectan. Tú escribes la solución.",
+  "目標をつなげ、答えは自分で書こう。",
+  "Цели связаны, а решение записываете вы."
+ ],
+ [
+  "已留下作答证据",
+  "已留下作答證據",
+  "Submission evidence recorded",
+  "Réponse enregistrée",
+  "Evidencia de respuesta registrada",
+  "解答の根拠を記録済み",
+  "Работа подтверждена записью"
+ ],
+ [
+  "现在，关注这里",
+  "現在，關注這裏",
+  "Focus here now",
+  "Concentrez-vous ici",
+  "Céntrate aquí ahora",
+  "今はここに集中",
+  "Сейчас внимание сюда"
+ ],
+ [
+  "阶段目标",
+  "階段目標",
+  "Stage goal",
+  "Objectif d’étape",
+  "Objetivo de etapa",
+  "段階の目標",
+  "Цель этапа"
+ ],
+ [
+  "路径本身也是一种帮助。",
+  "路徑本身也是一種幫助。",
+  "The path itself is a form of help.",
+  "Le parcours est lui-même une aide.",
+  "El propio recorrido es una ayuda.",
+  "道筋そのものも支援です。",
+  "Сам план — тоже помощь."
+ ],
+ [
+  "局部无提示，不等于整题独立。",
+  "局部無提示，不等於整題獨立。",
+  "A local step without hints is not a fully independent solution.",
+  "Une étape sans indice ne rend pas toute la solution autonome.",
+  "Un paso sin pistas no equivale a resolver todo de forma independiente.",
+  "小手順のヒントなしと、全問の自力解答は異なります。",
+  "Шаг без подсказок не означает полностью самостоятельного решения."
+ ],
+ [
+  "选择一个有效且便于推进的拆法",
+  "選擇一個有效且便於推進的拆法",
+  "Choose an effective, workable setup",
+  "Choisir une décomposition efficace",
+  "Elige un planteamiento válido y útil",
+  "進めやすい有効な分け方を選ぶ",
+  "Выберите удобное и верное разбиение"
+ ],
+ [
+  "把选择变成可用的导数与原函数",
+  "把選擇變成可用的導數與原函數",
+  "Find the derivative and antiderivative you need",
+  "Trouver la dérivée et la primitive utiles",
+  "Halla la derivada y la primitiva necesarias",
+  "必要な導関数と原始関数を求める",
+  "Найдите нужные производную и первообразную"
+ ],
+ [
+  "连接分部积分的关系",
+  "連接分部積分的關係",
+  "Connect the integration-by-parts relation",
+  "Relier la formule d’intégration par parties",
+  "Conecta la fórmula de integración por partes",
+  "部分積分の関係をつなげる",
+  "Свяжите части формулой интегрирования"
+ ],
+ [
+  "完成计算与整理",
+  "完成計算與整理",
+  "Calculate and simplify",
+  "Calculer et simplifier",
+  "Calcula y simplifica",
+  "計算して整理する",
+  "Вычислите и упростите"
+ ],
+ [
+  "检查结果，再连接完整解法",
+  "檢查結果，再連接完整解法",
+  "Check the result, then connect the solution",
+  "Vérifier puis relier la solution complète",
+  "Comprueba el resultado y conecta la solución",
+  "結果を確認し、解法全体をつなげる",
+  "Проверьте результат и соберите решение"
+ ],
+ [
+  "填写 u 和 dv（dv 只填函数部分，不含 dx）。",
+  "填寫 u 和 dv（dv 只填函數部分，不含 dx）。",
+  "Enter u and dv (for dv, omit dx).",
+  "Indiquez u et dv (sans dx pour dv).",
+  "Escribe u y dv (en dv, omite dx).",
+  "u と dv を入力（dv は dx を除く関数部分のみ）。",
+  "Введите u и dv (для dv — без dx)."
+ ],
+ [
+  "填写 du 和 v（du 只填导数部分，不含 dx）。",
+  "填寫 du 和 v（du 只填導數部分，不含 dx）。",
+  "Enter du and v (for du, omit dx).",
+  "Indiquez du et v (sans dx pour du).",
+  "Escribe du y v (en du, omite dx).",
+  "du と v を入力（du は dx を除く導関数部分のみ）。",
+  "Введите du и v (для du — без dx)."
+ ],
+ [
+  "计算 uv − ∫v du。先写出 uv 与 v·du 的函数部分。",
+  "計算 uv − ∫v du。先寫出 uv 與 v·du 的函數部分。",
+  "Use uv − ∫v du. First write uv and the function part of v·du.",
+  "Utilisez uv − ∫v du. Écrivez d’abord uv et la partie fonction de v·du.",
+  "Usa uv − ∫v du. Escribe primero uv y la función de v·du.",
+  "uv − ∫v du を使います。まず uv と v·du の関数部分を書きましょう。",
+  "Используйте uv − ∫v du. Сначала запишите uv и функцию в v·du."
+ ],
+ [
+  "写出原积分的完整结果。记得考虑积分常数。",
+  "寫出原積分的完整結果。記得考慮積分常數。",
+  "Write the full result, including the integration constant.",
+  "Écrivez le résultat complet, avec la constante d’intégration.",
+  "Escribe el resultado completo, incluida la constante de integración.",
+  "元の積分の結果を、積分定数も含めて書きましょう。",
+  "Запишите полный результат с постоянной интегрирования."
+ ],
+ [
+  "选择验证方式，并解释关键选择。",
+  "選擇驗證方式，並解釋關鍵選擇。",
+  "Choose a verification method and explain your key choice.",
+  "Choisissez une vérification et expliquez votre choix clé.",
+  "Elige cómo comprobarlo y explica tu decisión clave.",
+  "確認方法を選び、重要な選択を説明しましょう。",
+  "Выберите способ проверки и объясните ключевое решение."
+ ],
+ [
+  "先完成第一个量",
+  "先完成第一個量",
+  "First, complete the first value",
+  "Commencez par la première valeur",
+  "Completa primero el primer valor",
+  "まず一つ目の量を完成させよう",
+  "Сначала найдите первое значение"
+ ],
+ [
+  "再完成第二个量",
+  "再完成第二個量",
+  "Now complete the second value",
+  "Puis complétez la seconde valeur",
+  "Ahora completa el segundo valor",
+  "次に二つ目の量を完成させよう",
+  "Теперь найдите второе значение"
+ ],
+ [
+  "看一次怎样连接",
+  "看一次怎樣連接",
+  "See how the pieces connect",
+  "Voir comment tout se relie",
+  "Ver cómo se conectan las partes",
+  "つながり方を一度見てみる",
+  "Посмотреть, как всё связывается"
+ ],
+ [
+  "示例 · 一次分部",
+  "示例 · 一次分部",
+  "Example · One application",
+  "Exemple · Une intégration par parties",
+  "Ejemplo · Una aplicación",
+  "例題・部分積分 1 回",
+  "Пример · Одно применение"
+ ],
+ [
+  "从一个乘积开始",
+  "從一個乘積開始",
+  "Start with a product",
+  "Commencer par un produit",
+  "Empieza con un producto",
+  "積から始めよう",
+  "Начните с произведения"
+ ],
+ [
+  "起步 · 一次分部",
+  "起步 · 一次分部",
+  "Starter · One application",
+  "Débutant · Une application",
+  "Inicial · Una aplicación",
+  "入門・部分積分 1 回",
+  "Начальный · Одно применение"
+ ],
+ [
+  "留意三角函数的符号",
+  "留意三角函數的符號",
+  "Watch the trigonometric signs",
+  "Attention aux signes trigonométriques",
+  "Atención a los signos trigonométricos",
+  "三角関数の符号に注意",
+  "Следите за знаками тригонометрических функций"
+ ],
+ [
+  "基础 · 三角函数",
+  "基礎 · 三角函數",
+  "Basic · Trigonometry",
+  "Base · Trigonométrie",
+  "Básico · Trigonometría",
+  "基礎・三角関数",
+  "Базовый · Тригонометрия"
+ ],
+ [
+  "没有乘积，也可以拆",
+  "沒有乘積，也可以拆",
+  "Find a product that is not obvious",
+  "Trouver un produit caché",
+  "Encuentra un producto oculto",
+  "積に見えなくても分けられる",
+  "Найдите скрытое произведение"
+ ],
+ [
+  "进阶 · 隐藏的 1",
+  "進階 · 隱藏的 1",
+  "Intermediate · A hidden 1",
+  "Intermédiaire · Un 1 caché",
+  "Intermedio · Un 1 oculto",
+  "応用・隠れた 1",
+  "Средний · Скрытая единица"
+ ],
+ [
+  "一次不够，再连接一次",
+  "一次不夠，再連接一次",
+  "Apply it again and connect the results",
+  "Recommencer et relier les résultats",
+  "Repite y conecta los resultados",
+  "一度で足りなければ、もう一度",
+  "Повторите и свяжите результаты"
+ ],
+ [
+  "挑战 · 重复分部",
+  "挑戰 · 重複分部",
+  "Challenge · Repeated application",
+  "Défi · Applications répétées",
+  "Reto · Aplicación repetida",
+  "挑戦・繰り返し部分積分",
+  "Сложный · Повторное применение"
+ ],
+ [
+  "自己连接 · 三角函数",
+  "自己連接 · 三角函數",
+  "Your own path · Trigonometry",
+  "En autonomie · Trigonométrie",
+  "Por tu cuenta · Trigonometría",
+  "自分でつなげる・三角関数",
+  "Самостоятельно · Тригонометрия"
+ ],
+ [
+  "基础迁移 · 符号变化",
+  "基礎遷移 · 符號變化",
+  "Basic transfer · Changing signs",
+  "Transfert de base · Changement de signes",
+  "Transferencia básica · Cambios de signo",
+  "基礎の応用・符号の変化",
+  "Базовый перенос · Изменение знаков"
+ ],
+ [
+  "自己连接 · 幂与对数",
+  "自己連接 · 冪與對數",
+  "Your own path · Powers and logarithms",
+  "En autonomie · Puissances et logarithmes",
+  "Por tu cuenta · Potencias y logaritmos",
+  "自分でつなげる・べきと対数",
+  "Самостоятельно · Степени и логарифмы"
+ ],
+ [
+  "进阶迁移 · 对数与幂",
+  "進階遷移 · 對數與冪",
+  "Intermediate transfer · Logs and powers",
+  "Transfert intermédiaire · Logarithmes et puissances",
+  "Transferencia intermedia · Logaritmos y potencias",
+  "応用への移行・対数とべき",
+  "Средний перенос · Логарифмы и степени"
+ ],
+ [
+  "自己连接 · 一个负幂",
+  "自己連接 · 一個負冪",
+  "Your own path · A negative power",
+  "En autonomie · Une puissance négative",
+  "Por tu cuenta · Una potencia negativa",
+  "自分でつなげる・負のべき",
+  "Самостоятельно · Отрицательная степень"
+ ],
+ [
+  "挑战迁移 · 负幂",
+  "挑戰遷移 · 負冪",
+  "Challenge transfer · Negative powers",
+  "Transfert avancé · Puissances négatives",
+  "Transferencia avanzada · Potencias negativas",
+  "挑戦への移行・負のべき",
+  "Сложный перенос · Отрицательные степени"
+ ],
+ [
+  "本次使用演示模式。",
+  "本次使用演示模式。",
+  "This attempt uses demo mode.",
+  "Cette tentative utilise la démo.",
+  "Este intento usa el modo demo.",
+  "今回はデモモードを使用します。",
+  "Эта попытка использует деморежим."
+ ],
+ [
+  "AI 计划生成或校验失败，已降级为审核过的预设教学结构。",
+  "AI 計劃生成或校驗失敗，已降級爲審覈過的預設教學結構。",
+  "AI plan generation or validation failed. Using the reviewed teaching structure.",
+  "La création ou validation du plan IA a échoué. Utilisation du parcours vérifié.",
+  "Falló la generación o validación del plan IA. Se usa la estructura revisada.",
+  "AI の計画生成または検証に失敗しました。確認済みの学習構造を使います。",
+  "Не удалось создать или проверить план ИИ. Используется проверенная структура."
+ ],
+ [
+  "AI 调整建议不可用，使用审核过的规则拆解。",
+  "AI 調整建議不可用，使用審覈過的規則拆解。",
+  "AI adjustments are unavailable. Using reviewed rule-based steps.",
+  "Ajustements IA indisponibles. Utilisation des étapes vérifiées.",
+  "No hay ajustes IA disponibles. Se usan pasos revisados basados en reglas.",
+  "AI の調整提案を使えません。確認済みのルールで分けます。",
+  "Предложения ИИ недоступны. Используются проверенные правила разбиения."
+ ],
+ [
+  "服务端不可用，已切换演示模式；作答和帮助保留。",
+  "服務端不可用，已切換演示模式；作答和幫助保留。",
+  "The server is unavailable. Switched to demo; work and help records are preserved.",
+  "Serveur indisponible. Passage à la démo ; travail et aides conservés.",
+  "Servidor no disponible. Se cambia a demo; el trabajo y las ayudas se conservan.",
+  "サーバーに接続できません。デモへ切り替え、解答と支援記録を残しました。",
+  "Сервер недоступен. Включён деморежим; работа и помощь сохранены."
+ ],
+ [
+  "第一个量已确认。保留它，现在完成第二个量。",
+  "第一個量已確認。保留它，現在完成第二個量。",
+  "The first value is verified. Keep it and work on the second.",
+  "La première valeur est vérifiée. Gardez-la et complétez la seconde.",
+  "El primer valor está verificado. Consérvalo y completa el segundo.",
+  "一つ目の量を確認しました。それを残して、二つ目に進みましょう。",
+  "Первое значение подтверждено. Сохраните его и найдите второе."
+ ],
+ [
+  "先检查当前这个量。演示模式接受有限表达形式，可保留为待复核。",
+  "先檢查當前這個量。演示模式接受有限表達形式，可保留爲待複覈。",
+  "Check this value first. Demo grading accepts limited forms; you can keep it for review.",
+  "Vérifiez cette valeur. La démo accepte des formes limitées ; vous pouvez la garder à vérifier.",
+  "Revisa este valor. La demo acepta formas limitadas; puedes guardarlo para revisión.",
+  "まずこの量を確認しましょう。デモで採点できる形は限られるため、要確認として残せます。",
+  "Проверьте текущее значение. Демоверсия принимает ограниченные формы; можно сохранить для проверки."
+ ],
+ [
+  "AI 暂不可用。",
+  "AI 暫不可用。",
+  "AI is temporarily unavailable.",
+  "L’IA est temporairement indisponible.",
+  "La IA no está disponible temporalmente.",
+  "AI は一時的に利用できません。",
+  "ИИ временно недоступен."
+ ],
+ [
+  "已使用演示规则检查；输入未丢失。",
+  "已使用演示規則檢查；輸入未丟失。",
+  "Checked with demo rules; your input is preserved.",
+  "Vérifié avec les règles de démo ; saisie conservée.",
+  "Comprobado con reglas de demo; tu entrada se conserva.",
+  "デモのルールで確認しました。入力は残っています。",
+  "Проверено по правилам демо; ввод сохранён."
+ ],
+ [
+  "根据你的选择，分别求导和积分。",
+  "根據你的選擇，分別求導和積分。",
+  "Differentiate and integrate according to your choices.",
+  "Dérivez et intégrez selon vos choix.",
+  "Deriva e integra según tus elecciones.",
+  "選んだものを、それぞれ微分・積分しましょう。",
+  "В соответствии с выбором найдите производную и интеграл."
+ ],
+ [
+  "u 对应 du；dv 对应原函数 v。",
+  "u 對應 du；dv 對應原函數 v。",
+  "u gives du; dv gives the antiderivative v.",
+  "u donne du ; dv donne la primitive v.",
+  "u da du; dv da la primitiva v.",
+  "u から du を、dv から原始関数 v を求めます。",
+  "u даёт du; dv даёт первообразную v."
+ ],
+ [
+  "检查乘积求导关系中的减号。",
+  "檢查乘積求導關係中的減號。",
+  "Check the minus sign in the integration-by-parts relation.",
+  "Vérifiez le signe moins dans la formule.",
+  "Comprueba el signo menos en la fórmula.",
+  "部分積分の関係のマイナスを確認しましょう。",
+  "Проверьте знак минус в формуле."
+ ],
+ [
+  "先分别写出 uv 和 v·du。",
+  "先分別寫出 uv 和 v·du。",
+  "First write uv and v·du separately.",
+  "Écrivez d’abord uv et v·du séparément.",
+  "Primero escribe uv y v·du por separado.",
+  "まず uv と v·du を別々に書きましょう。",
+  "Сначала запишите uv и v·du отдельно."
+ ],
+ [
+  "原函数与被积函数可以怎样比较？",
+  "原函數與被積函數可以怎樣比較？",
+  "How can you compare the antiderivative and the integrand?",
+  "Comment comparer la primitive et l’intégrande ?",
+  "¿Cómo puedes comparar la primitiva y el integrando?",
+  "原始関数と被積分関数をどう比べられますか？",
+  "Как сравнить первообразную и подынтегральную функцию?"
+ ],
+ [
+  "回想求导与不定积分的关系。",
+  "回想求導與不定積分的關係。",
+  "Recall the relationship between differentiation and integration.",
+  "Rappelez-vous le lien entre dérivation et intégration.",
+  "Recuerda la relación entre derivación e integración.",
+  "微分と不定積分の関係を思い出しましょう。",
+  "Вспомните связь дифференцирования и интегрирования."
+ ],
+ [
+  "对原函数求导，检查是否还原被积函数。",
+  "對原函數求導，檢查是否還原被積函數。",
+  "Differentiate the antiderivative and check that you recover the integrand.",
+  "Dérivez la primitive pour vérifier que vous retrouvez l’intégrande.",
+  "Deriva la primitiva y comprueba que recuperas el integrando.",
+  "原始関数を微分し、被積分関数に戻るか確認します。",
+  "Продифференцируйте первообразную и сравните с подынтегральной функцией."
+ ],
+ [
+  "观察两个部分：哪个求导后更简单？",
+  "觀察兩個部分：哪個求導後更簡單？",
+  "Look at both parts: which becomes simpler when differentiated?",
+  "Observez les deux parties : laquelle se simplifie en la dérivant ?",
+  "Observa ambas partes: ¿cuál se simplifica al derivarla?",
+  "二つの部分を見て、どちらが微分すると簡単になるか考えましょう。",
+  "Посмотрите на обе части: какая упрощается при дифференцировании?"
+ ],
+ [
+  "用 ∫u dv = uv − ∫v du 连接它们。",
+  "用 ∫u dv = uv − ∫v du 連接它們。",
+  "Connect them with ∫u dv = uv − ∫v du.",
+  "Reliez-les avec ∫u dv = uv − ∫v du.",
+  "Conéctalas con ∫u dv = uv − ∫v du.",
+  "∫u dv = uv − ∫v du でつなげましょう。",
+  "Свяжите их формулой ∫u dv = uv − ∫v du."
+ ],
+ [
+  "分部积分关系中的减号需要检查。",
+  "分部積分關係中的減號需要檢查。",
+  "Check the minus sign in integration by parts.",
+  "Vérifiez le signe moins dans l’intégration par parties.",
+  "Revisa el signo menos en la integración por partes.",
+  "部分積分のマイナスを確認しましょう。",
+  "Проверьте минус в формуле интегрирования по частям."
+ ],
+ [
+  "这道题已经展示过，不能作为未见题重新检验。",
+  "這道題已經展示過，不能作爲未見題重新檢驗。",
+  "This problem has been seen and cannot be reused as an unseen check.",
+  "Ce problème a déjà été vu ; il ne peut plus servir de test inédit.",
+  "Este problema ya se mostró y no puede reutilizarse como prueba inédita.",
+  "この問題は表示済みのため、未見問題の確認には使えません。",
+  "Задача уже показана и не может считаться новой для проверки."
+ ],
+ [
+  "原函数已确认。再选择验证方式和关键选择的理由，连接完整解法。",
+  "原函數已確認。再選擇驗證方式和關鍵選擇的理由，連接完整解法。",
+  "The antiderivative is verified. Add your verification method and key reason to complete the solution.",
+  "La primitive est vérifiée. Ajoutez la vérification et la raison de votre choix.",
+  "La primitiva está verificada. Añade cómo la compruebas y el motivo de tu elección.",
+  "原始関数を確認しました。確認方法と選択の理由を加え、解法をつなげましょう。",
+  "Первообразная подтверждена. Добавьте способ проверки и причину выбора."
+ ],
+ [
+  "学生明确请求更小的任务",
+  "學生明確請求更小的任務",
+  "The learner explicitly requested a smaller task",
+  "L’étudiant a demandé une tâche plus petite",
+  "El estudiante pidió una tarea más pequeña",
+  "学習者がより小さな課題を希望",
+  "Учащийся запросил меньшую подзадачу"
+ ],
+ [
+  "学生主动要求独立继续；此前帮助保持记录",
+  "學生主動要求獨立繼續；此前幫助保持記錄",
+  "The learner requested autonomy; earlier help stays recorded",
+  "L’étudiant souhaite continuer seul ; l’aide reste enregistrée",
+  "El estudiante pidió autonomía; se conserva la ayuda anterior",
+  "学習者が自主継続を希望・以前の支援は記録に保持",
+  "Учащийся запросил самостоятельность; прежняя помощь сохранена"
+ ],
+ [
+  "接下来由你组织。之前获得的帮助仍会保留在本次记录中。",
+  "接下來由你組織。之前獲得的幫助仍會保留在本次記錄中。",
+  "You organize what comes next. Earlier help remains recorded for this attempt.",
+  "Organisez la suite. Les aides précédentes restent enregistrées.",
+  "Organiza lo que sigue. La ayuda anterior sigue registrada.",
+  "ここからは自分で組み立てましょう。これまでの支援は今回の記録に残ります。",
+  "Дальнейший план за вами. Ранее полученная помощь остаётся в записи."
+ ],
+ [
+  "已退出无提示检验，当前尝试转为引导式学习。已有作答和帮助记录保留。",
+  "已退出無提示檢驗，當前嘗試轉爲引導式學習。已有作答和幫助記錄保留。",
+  "You left the unassisted check. This attempt is now guided; work and assistance records are preserved.",
+  "Vous avez quitté le test sans aide. La tentative est maintenant guidée ; travail et aides conservés.",
+  "Saliste de la prueba sin pistas. Ahora el intento es guiado; se conservan trabajo y ayudas.",
+  "無支援の確認を終了し、今回の挑戦を支援付き学習に切り替えました。解答と支援記録は残ります。",
+  "Проверка без подсказок завершена. Попытка переведена в обучение с помощью; записи сохранены."
+ ],
+ [
+  "你连接了关键选择与求导验证。",
+  "你連接了關鍵選擇與求導驗證。",
+  "You connected the key choice with derivative verification.",
+  "Vous avez relié le choix clé à la vérification par dérivation.",
+  "Conectaste la decisión clave con la comprobación por derivación.",
+  "重要な選択と、微分による確認をつなげました。",
+  "Вы связали ключевой выбор с проверкой производной."
+ ],
+ [
+  "原函数可以通过求导检查；选择 u 时考虑求导后的简化。",
+  "原函數可以通過求導檢查；選擇 u 時考慮求導後的簡化。",
+  "Check an antiderivative by differentiating. Choose u with simplification in mind.",
+  "Vérifiez une primitive en la dérivant. Choisissez u pour simplifier sa dérivée.",
+  "Comprueba la primitiva derivando. Elige u pensando en simplificar.",
+  "原始関数は微分で確認できます。u は微分後の簡単さを考えて選びましょう。",
+  "Проверьте первообразную дифференцированием. При выборе u подумайте об упрощении."
+ ],
+ [
+  "先填写当前需要的内容；已有过程会保留。",
+  "先填寫當前需要的內容；已有過程會保留。",
+  "Fill in the required fields first. Existing work is preserved.",
+  "Remplissez les champs nécessaires. Le travail existant est conservé.",
+  "Completa primero los campos necesarios. Se conserva el trabajo anterior.",
+  "まず必要な欄を入力しましょう。これまでの過程は残ります。",
+  "Сначала заполните нужные поля. Предыдущая работа сохранена."
+ ],
+ [
+  "这个表达方式超出演示评分范围。过程已保留，可以修正格式或留待复核。",
+  "這個表達方式超出演示評分範圍。過程已保留，可以修正格式或留待複覈。",
+  "This notation is outside demo grading. Your work is saved; revise the format or leave it for review.",
+  "Cette notation dépasse la correction de démo. Travail conservé ; modifiez le format ou gardez-le à vérifier.",
+  "Esta notación no está cubierta por la demo. Se guardó tu trabajo; corrige el formato o déjalo para revisión.",
+  "この表記はデモの採点範囲外です。過程は保存しました。形式を直すか、要確認として残せます。",
+  "Эта запись вне возможностей демопроверки. Работа сохранена; исправьте формат или оставьте на проверку."
+ ],
+ [
+  "这个选择在数学上有效，但会产生更复杂的积分。演示引擎不能可靠接续这条替代路径，已保留你的过程供复核。",
+  "這個選擇在數學上有效，但會產生更復雜的積分。演示引擎不能可靠接續這條替代路徑，已保留你的過程供複覈。",
+  "This choice is mathematically valid but leads to a harder integral. The demo cannot reliably follow this alternative; your work is saved for review.",
+  "Ce choix est mathématiquement valide mais rend l’intégrale plus complexe. La démo ne peut pas suivre ce chemin de façon fiable ; votre travail est conservé.",
+  "Esta elección es válida, pero produce una integral más compleja. La demo no puede seguir esta alternativa con fiabilidad; se guarda tu trabajo para revisión.",
+  "数学的に有効な選択ですが、積分が複雑になります。デモではこの別解を確実に追えないため、過程を要確認として保存しました。",
+  "Выбор математически верен, но усложняет интеграл. Демоверсия не может надёжно продолжить этот путь; работа сохранена для проверки."
+ ],
+ [
+  "主要计算正确。补上不定积分的积分常数 +C，就完整了。",
+  "主要計算正確。補上不定積分的積分常數 +C，就完整了。",
+  "The main calculation is correct. Add the integration constant +C to complete it.",
+  "Le calcul principal est correct. Ajoutez la constante d’intégration +C.",
+  "El cálculo principal es correcto. Añade la constante de integración +C.",
+  "主な計算は正しいです。不定積分の積分定数 +C を加えると完成です。",
+  "Основное вычисление верно. Добавьте постоянную интегрирования +C."
+ ],
+ [
+  "原函数和积分常数都符合已审核形式。",
+  "原函數和積分常數都符合已審覈形式。",
+  "The antiderivative and constant match a reviewed form.",
+  "La primitive et la constante correspondent à une forme vérifiée.",
+  "La primitiva y la constante coinciden con una forma revisada.",
+  "原始関数と積分定数が、確認済みの形と一致しています。",
+  "Первообразная и постоянная соответствуют проверенной форме."
+ ],
+ [
+  "暂时无法确认这是不是等价表达式。这里只审核有限形式，不将不认识的写法判错。",
+  "暫時無法確認這是不是等價表達式。這裏只審覈有限形式，不將不認識的寫法判錯。",
+  "This may be equivalent, but it is outside the reviewed forms. An unfamiliar form is not marked wrong.",
+  "Cette forme peut être équivalente mais n’est pas couverte. Une écriture inconnue n’est pas déclarée fausse.",
+  "Puede ser equivalente, pero no está entre las formas revisadas. Una forma desconocida no se marca como incorrecta.",
+  "同値な式かもしれませんが、確認済みの形に含まれていません。不明な表記を誤りとは判定しません。",
+  "Возможно, выражение равносильно, но его форма не проверена. Незнакомая запись не считается ошибкой."
+ ],
+ [
+  "这一步的证据已经齐了，可以把它连接到下一步。",
+  "這一步的證據已經齊了，可以把它連接到下一步。",
+  "This step has the evidence it needs. Connect it to the next step.",
+  "Cette étape est justifiée. Reliez-la à la suivante.",
+  "Este paso tiene la evidencia necesaria. Conéctalo con el siguiente.",
+  "この手順の根拠がそろいました。次の手順につなげましょう。",
+  "Для этого шага достаточно подтверждений. Переходите к следующему."
+ ],
+ [
+  "保留正确部分，检查未通过项的符号。",
+  "保留正確部分，檢查未通過項的符號。",
+  "Keep the correct parts and check the signs in the remaining fields.",
+  "Gardez les parties justes et vérifiez les signes restants.",
+  "Conserva las partes correctas y comprueba los signos restantes.",
+  "正しい部分を残し、未確認の項目の符号を確かめましょう。",
+  "Сохраните верные части и проверьте знаки в оставшихся полях."
+ ],
+ [
+  "有些填写不在预设等价形式内。先核对输入格式，或保留为待复核。",
+  "有些填寫不在預設等價形式內。先覈對輸入格式，或保留爲待複覈。",
+  "Some entries are outside the reviewed forms. Check the notation or keep them for review.",
+  "Certaines réponses ne sont pas couvertes. Vérifiez la notation ou gardez-les à vérifier.",
+  "Algunas entradas no están entre las formas revisadas. Revisa la notación o déjalas para revisión.",
+  "確認済みの同値形式にない入力があります。表記を確認するか、要確認として残せます。",
+  "Некоторые записи вне проверенных форм. Проверьте обозначения или сохраните для проверки."
+ ],
+ [
+  "本机记录无法读取或版本不兼容。原始数据未删除；可导出备份后清除重建。",
+  "本機記錄無法讀取或版本不兼容。原始數據未刪除；可導出備份後清除重建。",
+  "Local records could not be read or are incompatible. Original data is intact; export a backup before resetting.",
+  "Données locales illisibles ou incompatibles. L’original est intact ; exportez avant de réinitialiser.",
+  "Los registros no se pueden leer o son incompatibles. Los originales siguen intactos; exporta una copia antes de reiniciar.",
+  "端末の記録を読めないか、版が対応していません。元のデータは残っています。書き出してから初期化してください。",
+  "Локальные записи не читаются или несовместимы. Исходные данные целы; экспортируйте копию перед сбросом."
+ ],
+ [
+  "原始损坏记录未覆盖。请先导出备份，再清除本机记录以恢复保存。",
+  "原始損壞記錄未覆蓋。請先導出備份，再清除本機記錄以恢復保存。",
+  "Damaged originals were not overwritten. Export a backup, then clear local records to enable saving.",
+  "Les données endommagées n’ont pas été écrasées. Exportez une copie puis effacez les données locales pour réactiver la sauvegarde.",
+  "No se sobrescribieron los originales dañados. Exporta una copia y luego borra los registros para volver a guardar.",
+  "破損した元の記録は上書きしていません。バックアップを出力し、端末の記録を削除すると保存を再開できます。",
+  "Повреждённые оригиналы не перезаписаны. Экспортируйте копию и очистите записи для восстановления сохранения."
+ ],
+ [
+  "浏览器未能保存记录。请保持页面打开，或导出当前记录。",
+  "瀏覽器未能保存記錄。請保持頁面打開，或導出當前記錄。",
+  "The browser could not save. Keep this page open or export your records.",
+  "Le navigateur n’a pas pu enregistrer. Gardez la page ouverte ou exportez les données.",
+  "El navegador no pudo guardar. Mantén la página abierta o exporta los registros.",
+  "ブラウザーで保存できませんでした。ページを開いたままにするか、記録を出力してください。",
+  "Браузер не смог сохранить записи. Не закрывайте страницу или экспортируйте данные."
+ ],
+ [
+  "未配置 API 密钥，已保留输入；可继续演示模式。",
+  "未配置 API 密鑰，已保留輸入；可繼續演示模式。",
+  "No API key configured. Your input is safe; continue in demo mode.",
+  "Aucune clé API configurée. Saisie conservée ; continuez en démo.",
+  "No hay clave API configurada. Tu entrada se conserva; continúa en demo.",
+  "API キーが未設定です。入力を保ったままデモを続けられます。",
+  "Ключ API не настроен. Ввод сохранён; продолжайте в деморежиме."
+ ],
+ [
+  "当前局部：",
+  "當前局部：",
+  "Current local step: ",
+  "Étape locale : ",
+  "Paso actual: ",
+  "現在の小手順：",
+  "Текущий локальный шаг: "
+ ],
+ [
+  "当前题可取 u =",
+  "當前題可取 u =",
+  "For this problem, try u =",
+  "Pour ce problème, prenez u =",
+  "Para este problema, toma u =",
+  "この問題では u =",
+  "Для этой задачи можно взять u ="
+ ],
+ [
+  "SMALL STEPS. REAL UNDERSTANDING.",
+  "SMALL STEPS. REAL UNDERSTANDING.",
+  "SMALL STEPS. REAL UNDERSTANDING.",
+  "PETITS PAS. VRAIE COMPRÉHENSION.",
+  "PASOS PEQUEÑOS. COMPRENSIÓN REAL.",
+  "小さな一歩。確かな理解。",
+  "МАЛЕНЬКИЕ ШАГИ. НАСТОЯЩЕЕ ПОНИМАНИЕ."
+ ],
+ [
+  "ONE PROBLEM. A WAY THROUGH.",
+  "ONE PROBLEM. A WAY THROUGH.",
+  "ONE PROBLEM. A WAY THROUGH.",
+  "UN PROBLÈME. UN CHEMIN.",
+  "UN PROBLEMA. UN CAMINO.",
+  "一つの問題。一つの道筋。",
+  "ОДНА ЗАДАЧА. ПУТЬ К РЕШЕНИЮ."
+ ],
+ [
+  "LESS OVERWHELM. MORE MOMENTUM.",
+  "LESS OVERWHELM. MORE MOMENTUM.",
+  "LESS OVERWHELM. MORE MOMENTUM.",
+  "MOINS DE BLOCAGES. PLUS D’ÉLAN.",
+  "MENOS AGOBIO. MÁS IMPULSO.",
+  "戸惑いを減らし、前へ。",
+  "МЕНЬШЕ РАСТЕРЯННОСТИ. БОЛЬШЕ ДВИЖЕНИЯ."
+ ],
+ [
+  "01 / FOCUS",
+  "01 / FOCUS",
+  "01 / FOCUS",
+  "01 / CONCENTRATION",
+  "01 / ENFOQUE",
+  "01 / 集中",
+  "01 / ВНИМАНИЕ"
+ ],
+ [
+  "02 / CONNECT",
+  "02 / CONNECT",
+  "02 / CONNECT",
+  "02 / RELIER",
+  "02 / CONECTAR",
+  "02 / つなぐ",
+  "02 / СВЯЗИ"
+ ],
+ [
+  "03 / OWN IT",
+  "03 / OWN IT",
+  "03 / OWN IT",
+  "03 / AUTONOMIE",
+  "03 / AUTONOMÍA",
+  "03 / 自分の力に",
+  "03 / САМОСТОЯТЕЛЬНОСТЬ"
+ ],
+ [
+  "YOUR NEXT SMALL STEP",
+  "YOUR NEXT SMALL STEP",
+  "YOUR NEXT SMALL STEP",
+  "VOTRE PROCHAIN PETIT PAS",
+  "TU SIGUIENTE PEQUEÑO PASO",
+  "次の小さな一歩",
+  "ВАШ СЛЕДУЮЩИЙ НЕБОЛЬШОЙ ШАГ"
+ ],
+ [
+  "A WORKED EXAMPLE",
+  "A WORKED EXAMPLE",
+  "A WORKED EXAMPLE",
+  "UN EXEMPLE RÉSOLU",
+  "UN EJEMPLO RESUELTO",
+  "解説付きの例題",
+  "ПРИМЕР С РЕШЕНИЕМ"
+ ],
+ [
+  "INDEPENDENT CHECK",
+  "INDEPENDENT CHECK",
+  "INDEPENDENT CHECK",
+  "TEST EN AUTONOMIE",
+  "PRUEBA INDEPENDIENTE",
+  "自主確認",
+  "САМОСТОЯТЕЛЬНАЯ ПРОВЕРКА"
+ ],
+ [
+  "YOUR LEARNING SPACE",
+  "YOUR LEARNING SPACE",
+  "YOUR LEARNING SPACE",
+  "VOTRE ESPACE D’APPRENTISSAGE",
+  "TU ESPACIO DE APRENDIZAJE",
+  "あなたの学習スペース",
+  "ВАШЕ УЧЕБНОЕ ПРОСТРАНСТВО"
+ ],
+ [
+  "THE WHOLE PROBLEM",
+  "THE WHOLE PROBLEM",
+  "THE WHOLE PROBLEM",
+  "LE PROBLÈME COMPLET",
+  "EL PROBLEMA COMPLETO",
+  "問題全体",
+  "ЗАДАЧА ЦЕЛИКОМ"
+ ],
+ [
+  "CONNECT YOUR IDEAS",
+  "CONNECT YOUR IDEAS",
+  "CONNECT YOUR IDEAS",
+  "RELIEZ VOS IDÉES",
+  "CONECTA TUS IDEAS",
+  "考えをつなげよう",
+  "СВЯЖИТЕ СВОИ ИДЕИ"
+ ],
+ [
+  "YOUR OWN APPROACH",
+  "YOUR OWN APPROACH",
+  "YOUR OWN APPROACH",
+  "VOTRE PROPRE DÉMARCHE",
+  "TU PROPIO ENFOQUE",
+  "自分の道筋",
+  "ВАШ СОБСТВЕННЫЙ ПОДХОД"
+ ],
+ [
+  "JUST THIS STEP",
+  "JUST THIS STEP",
+  "JUST THIS STEP",
+  "CETTE ÉTAPE SEULEMENT",
+  "SOLO ESTE PASO",
+  "今は、この一歩",
+  "ТОЛЬКО ЭТОТ ШАГ"
+ ],
+ [
+  "THE BIG PICTURE",
+  "THE BIG PICTURE",
+  "THE BIG PICTURE",
+  "LA VUE D’ENSEMBLE",
+  "LA VISIÓN GENERAL",
+  "全体像",
+  "ОБЩАЯ КАРТИНА"
+ ],
+ [
+  "ONE STEP BECOMES A WAY THROUGH",
+  "ONE STEP BECOMES A WAY THROUGH",
+  "ONE STEP BECOMES A WAY THROUGH",
+  "UN PAS DEVIENT UN CHEMIN",
+  "UN PASO SE CONVIERTE EN CAMINO",
+  "一歩が、道筋になる",
+  "ОДИН ШАГ СТАНОВИТСЯ ПУТЁМ"
+ ],
+ [
+  "YOUR PROGRESS, AT YOUR PACE",
+  "YOUR PROGRESS, AT YOUR PACE",
+  "YOUR PROGRESS, AT YOUR PACE",
+  "VOS PROGRÈS, À VOTRE RYTHME",
+  "TU PROGRESO, A TU RITMO",
+  "自分のペースで進む記録",
+  "ВАШ ПРОГРЕСС В ВАШЕМ ТЕМПЕ"
+ ],
+ [
+  "guided",
+  "guided",
+  "Guided",
+  "Guidé",
+  "Guiado",
+  "細かい支援",
+  "С подсказками"
+ ],
+ [
+  "reduced",
+  "reduced",
+  "Reduced",
+  "Allégé",
+  "Reducido",
+  "支援を減らす",
+  "Меньше подсказок"
+ ],
+ [
+  "independent",
+  "independent",
+  "Independent",
+  "Autonome",
+  "Independiente",
+  "自主",
+  "Самостоятельно"
+ ],
+ [
+  "path_revealed",
+  "path_revealed",
+  "Path revealed",
+  "Parcours affiché",
+  "Recorrido mostrado",
+  "道筋を表示",
+  "Показан план"
+ ],
+ [
+  "substep_revealed",
+  "substep_revealed",
+  "Substep revealed",
+  "Sous-étape affichée",
+  "Subpaso mostrado",
+  "小手順を表示",
+  "Показан подшаг"
+ ],
+ [
+  "authored_hint",
+  "authored_hint",
+  "Authored hint",
+  "Indice rédigé",
+  "Pista preparada",
+  "事前作成ヒント",
+  "Готовая подсказка"
+ ],
+ [
+  "ai_hint",
+  "ai_hint",
+  "AI hint",
+  "Indice IA",
+  "Pista IA",
+  "AI ヒント",
+  "Подсказка ИИ"
+ ],
+ [
+  "worked_example_viewed",
+  "worked_example_viewed",
+  "Worked example viewed",
+  "Exemple consulté",
+  "Ejemplo visto",
+  "例題を閲覧",
+  "Просмотрен пример"
+ ],
+ [
+  "solution_viewed",
+  "solution_viewed",
+  "Worked solution viewed",
+  "Solution consultée",
+  "Solución vista",
+  "解説を閲覧",
+  "Просмотрено решение"
+ ],
+ [
+  "split_step",
+  "split_step",
+  "Split step",
+  "Décomposer l’étape",
+  "Dividir paso",
+  "手順を細分化",
+  "Разбить шаг"
+ ],
+ [
+  "merge_steps",
+  "merge_steps",
+  "Reduce interruptions",
+  "Réduire les interruptions",
+  "Reducir interrupciones",
+  "中断を減らす",
+  "Уменьшить число остановок"
+ ],
+ [
+  "hide_path",
+  "hide_path",
+  "Hide path",
+  "Masquer le parcours",
+  "Ocultar recorrido",
+  "道筋を隠す",
+  "Скрыть план"
+ ],
+ [
+  "请求太频繁，请稍后再试。",
+  "請求太頻繁，請稍後再試。",
+  "Too many requests. Please try again shortly.",
+  "Trop de requêtes. Réessayez bientôt.",
+  "Demasiadas solicitudes. Inténtalo en un momento.",
+  "リクエストが多すぎます。しばらくして再試行してください。",
+  "Слишком много запросов. Попробуйте чуть позже."
+ ],
+ [
+  "本次 AI 调用额度已用完，可继续演示模式。",
+  "本次 AI 調用額度已用完，可繼續演示模式。",
+  "This attempt’s AI limit is reached. Continue in demo mode.",
+  "Quota IA atteint pour cette tentative. Continuez en démo.",
+  "Se agotó el límite de IA de este intento. Continúa en demo.",
+  "今回の AI 利用上限に達しました。デモで続けられます。",
+  "Лимит ИИ для этой попытки исчерпан. Продолжайте в деморежиме."
+ ],
+ [
+  "服务端会话失效，输入已保留。请使用演示模式继续。",
+  "服務端會話失效，輸入已保留。請使用演示模式繼續。",
+  "The server session expired. Your input is saved; continue in demo mode.",
+  "La session serveur a expiré. Saisie conservée ; continuez en démo.",
+  "La sesión del servidor caducó. Se guardó tu entrada; continúa en demo.",
+  "サーバーのセッションが切れました。入力は残っています。デモで続けてください。",
+  "Сеанс сервера истёк. Ввод сохранён; продолжайте в деморежиме."
+ ],
+ [
+  "没有可恢复的 AI 会话，请切换为演示模式。",
+  "沒有可恢復的 AI 會話，請切換爲演示模式。",
+  "No AI session can be restored. Switch to demo mode.",
+  "Aucune session IA à reprendre. Passez en démo.",
+  "No hay una sesión IA recuperable. Cambia a demo.",
+  "復元できる AI セッションがありません。デモに切り替えてください。",
+  "Нет сеанса ИИ для восстановления. Переключитесь в деморежим."
+ ],
+ [
+  "题目不存在",
+  "題目不存在",
+  "Problem not found",
+  "Problème introuvable",
+  "Problema no encontrado",
+  "問題が見つかりません",
+  "Задача не найдена"
+ ],
+ [
+  "得到原函数，并能说明选择与验证方法",
+  "得到原函數，並能說明選擇與驗證方法",
+  "Find an antiderivative and explain the choice and verification",
+  "Trouver une primitive et expliquer le choix et la vérification",
+  "Hallar una primitiva y explicar la elección y la comprobación",
+  "原始関数を求め、選択と確認方法を説明する",
+  "Найти первообразную и объяснить выбор и проверку"
+ ],
+ [
+  "导数",
+  "導數",
+  "Derivative",
+  "Dérivée",
+  "Derivada",
+  "導関数",
+  "Производная"
+ ],
+ [
+  "基本积分",
+  "基本積分",
+  "Basic integration",
+  "Intégration de base",
+  "Integración básica",
+  "基本積分",
+  "Базовые интегралы"
+ ],
+ [
+  "乘积求导法则",
+  "乘積求導法則",
+  "Product rule",
+  "Règle du produit",
+  "Regla del producto",
+  "積の微分法則",
+  "Правило производной произведения"
+ ],
+ [
+  "分部积分",
+  "分部積分",
+  "Integration by parts",
+  "Intégration par parties",
+  "Integración por partes",
+  "部分積分",
+  "Интегрирование по частям"
+ ],
+ [
+  "表格法",
+  "表格法",
+  "Tabular method",
+  "Méthode tabulaire",
+  "Método tabular",
+  "表を使う方法",
+  "Табличный метод"
+ ],
+ [
+  "其他有效解法需人工复核",
+  "其他有效解法需人工複覈",
+  "Other valid approaches need human review",
+  "Autres méthodes valides à vérifier manuellement",
+  "Otros métodos válidos requieren revisión humana",
+  "その他の有効な解法は人による確認が必要",
+  "Другие верные способы требуют ручной проверки"
+ ],
+ [
+  "函数结构",
+  "函數結構",
+  "Function structure",
+  "Structure de la fonction",
+  "Estructura de la función",
+  "関数の構造",
+  "Структура функции"
+ ],
+ [
+  "分部积分关系",
+  "分部積分關係",
+  "Integration-by-parts relation",
+  "Relation d’intégration par parties",
+  "Relación de integración por partes",
+  "部分積分の関係",
+  "Формула интегрирования по частям"
+ ],
+ [
+  "u 与 dv",
+  "u 與 dv",
+  "u and dv",
+  "u et dv",
+  "u y dv",
+  "u と dv",
+  "u и dv"
+ ],
+ [
+  "du 与 v",
+  "du 與 v",
+  "du and v",
+  "du et v",
+  "du y v",
+  "du と v",
+  "du и v"
+ ],
+ [
+  "uv 与 v·du",
+  "uv 與 v·du",
+  "uv and v·du",
+  "uv et v·du",
+  "uv y v·du",
+  "uv と v·du",
+  "uv и v·du"
+ ],
+ [
+  "含常数的原函数",
+  "含常數的原函數",
+  "Antiderivative with a constant",
+  "Primitive avec constante",
+  "Primitiva con constante",
+  "定数を含む原始関数",
+  "Первообразная с постоянной"
+ ],
+ [
+  "验证方式与选择理由",
+  "驗證方式與選擇理由",
+  "Verification method and reason for the choice",
+  "Vérification et raison du choix",
+  "Comprobación y motivo de la elección",
+  "確認方法と選択の理由",
+  "Способ проверки и причина выбора"
+ ],
+ [
+  "结构化作答符合已审核题目的等价表达式",
+  "結構化作答符合已審覈題目的等價表達式",
+  "Structured response matches a reviewed equivalent form",
+  "Réponse structurée conforme à une forme équivalente vérifiée",
+  "La respuesta estructurada coincide con una forma equivalente revisada",
+  "構造化した解答が確認済みの同値式と一致",
+  "Структурированный ответ соответствует проверенной равносильной форме"
+ ],
+ [
+  "符号错误",
+  "符號錯誤",
+  "Sign error",
+  "Erreur de signe",
+  "Error de signo",
+  "符号の誤り",
+  "Ошибка знака"
+ ],
+ [
+  "遗忘积分常数",
+  "遺忘積分常數",
+  "Missing integration constant",
+  "Constante d’intégration oubliée",
+  "Falta la constante de integración",
+  "積分定数の抜け",
+  "Пропущена постоянная интегрирования"
+ ],
+ [
+  "回看乘积求导如何产生两个部分。",
+  "回看乘積求導如何產生兩個部分。",
+  "Recall how the product rule produces two terms.",
+  "Revoyez comment la règle du produit donne deux termes.",
+  "Recuerda cómo la regla del producto produce dos términos.",
+  "積の微分で二つの項が生まれる仕組みを確認しましょう。",
+  "Вспомните, как правило произведения даёт два слагаемых."
+ ],
+ [
+  "考虑让求导后的部分更简单。",
+  "考慮讓求導後的部分更簡單。",
+  "Aim to simplify the differentiated part.",
+  "Cherchez à simplifier la partie dérivée.",
+  "Intenta simplificar la parte que derivas.",
+  "微分した部分が簡単になるように考えましょう。",
+  "Постарайтесь упростить дифференцируемую часть."
+ ],
+ [
+  "乘积求导",
+  "乘積求導",
+  "Differentiating a product",
+  "Dérivation d’un produit",
+  "Derivar un producto",
+  "積の微分",
+  "Дифференцирование произведения"
+ ],
+ [
+  "原函数验证",
+  "原函數驗證",
+  "Antiderivative verification",
+  "Vérification d’une primitive",
+  "Comprobación de una primitiva",
+  "原始関数の確認",
+  "Проверка первообразной"
+ ],
+ [
+  "有效拆法",
+  "有效拆法",
+  "Valid setup",
+  "Décomposition valide",
+  "Planteamiento válido",
+  "有効な分け方",
+  "Верное разбиение"
+ ],
+ [
+  "正确导数和原函数",
+  "正確導數和原函數",
+  "Correct derivative and antiderivative",
+  "Dérivée et primitive correctes",
+  "Derivada y primitiva correctas",
+  "正しい導関数と原始関数",
+  "Верные производная и первообразная"
+ ],
+ [
+  "分部关系",
+  "分部關係",
+  "Integration-by-parts formula",
+  "Formule d’intégration par parties",
+  "Fórmula de integración por partes",
+  "部分積分の式",
+  "Формула интегрирования по частям"
+ ],
+ [
+  "结果与积分常数",
+  "結果與積分常數",
+  "Result and integration constant",
+  "Résultat et constante d’intégration",
+  "Resultado y constante de integración",
+  "結果と積分定数",
+  "Результат и постоянная интегрирования"
+ ],
+ [
+  "连接与验证",
+  "連接與驗證",
+  "Connection and verification",
+  "Mise en relation et vérification",
+  "Conexión y comprobación",
+  "つながりと確認",
+  "Связь и проверка"
+ ],
+ [
+  "验证方法与选择理由",
+  "驗證方法與選擇理由",
+  "Verification and justification",
+  "Vérification et justification",
+  "Comprobación y justificación",
+  "確認方法と選択の根拠",
+  "Проверка и обоснование"
+ ],
+ [
+  "原函数",
+  "原函數",
+  "Antiderivative",
+  "Primitive",
+  "Primitiva",
+  "原始関数",
+  "Первообразная"
+ ],
+ [
+  "积分常数",
+  "積分常數",
+  "Integration constant",
+  "Constante d’intégration",
+  "Constante de integración",
+  "積分定数",
+  "Постоянная интегрирования"
+ ],
+ [
+  "AI 计划生成或校验失败",
+  "AI 計劃生成或校驗失敗",
+  "AI plan generation or validation failed",
+  "Échec de création ou de validation du plan IA",
+  "Falló la creación o validación del plan IA",
+  "AI 計画の生成または検証に失敗",
+  "Не удалось создать или проверить план ИИ"
+ ],
+ [
+  "本机服务会话容量已满，请重启服务。",
+  "本機服務會話容量已滿，請重啓服務。",
+  "Local session capacity reached. Restart the server.",
+  "Capacité locale atteinte. Redémarrez le serveur.",
+  "Se alcanzó la capacidad de sesiones. Reinicia el servidor.",
+  "ローカルのセッション上限に達しました。サーバーを再起動してください。",
+  "Достигнут лимит локальных сеансов. Перезапустите сервер."
+ ],
+ [
+  "请求无效或检验题已曝光。",
+  "請求無效或檢驗題已曝光。",
+  "Invalid request or check problem already seen.",
+  "Requête invalide ou problème déjà vu.",
+  "Solicitud no válida o problema ya visto.",
+  "リクエストが無効か、確認問題が表示済みです。",
+  "Неверный запрос или задача уже показана."
+ ],
+ [
+  "请求格式无效；原始作答仍保留。",
+  "請求格式無效；原始作答仍保留。",
+  "Invalid request format. Your original answer is preserved.",
+  "Format de requête invalide. Réponse d’origine conservée.",
+  "Formato de solicitud no válido. Se conserva tu respuesta original.",
+  "リクエスト形式が無効です。元の解答は残っています。",
+  "Неверный формат запроса. Исходный ответ сохранён."
+ ],
+ [
+  "AI 调整建议暂不可用，使用已审核的规则拆解。",
+  "AI 調整建議暫不可用，使用已審覈的規則拆解。",
+  "AI adjustment suggestions are unavailable. Using reviewed rule-based steps.",
+  "Suggestions IA indisponibles. Utilisation des étapes vérifiées.",
+  "Los ajustes IA no están disponibles. Se usan pasos revisados.",
+  "AI 調整提案を使えません。確認済みのルールで分けます。",
+  "Предложения ИИ недоступны. Используются проверенные правила."
+ ],
+ [
+  "高中 · 大学数学",
+  "高中 · 大學數學",
+  "High school · University mathematics",
+  "Mathématiques · Lycée et université",
+  "Matemáticas · Bachillerato y universidad",
+  "高校・大学の数学",
+  "Математика · Школа и университет"
+ ],
+ [
+  "题库练习",
+  "題庫練習",
+  "Practice library",
+  "Bibliothèque d’exercices",
+  "Banco de ejercicios",
+  "練習問題集",
+  "Сборник задач"
+ ],
+ [
+  "YOUR PROBLEM. YOUR NEXT STEP.",
+  "YOUR PROBLEM. YOUR NEXT STEP.",
+  "YOUR PROBLEM. YOUR NEXT STEP.",
+  "VOTRE PROBLÈME. VOTRE PROCHAIN PAS.",
+  "TU PROBLEMA. TU SIGUIENTE PASO.",
+  "あなたの問題。次の一歩。",
+  "ВАША ЗАДАЧА. ВАШ СЛЕДУЮЩИЙ ШАГ."
+ ],
+ [
+  "把问题带来，从下一步开始。",
+  "把問題帶來，從下一步開始。",
+  "Bring a problem. Find your next step.",
+  "Apportez un problème. Trouvez votre prochain pas.",
+  "Trae un problema. Encuentra tu siguiente paso.",
+  "問題を持ってきて、次の一歩から。",
+  "Принесите задачу. Найдите следующий шаг."
+ ],
+ [
+  "高中到大学数学 · 输入、上传，或直接手写过程",
+  "高中到大學數學 · 輸入、上傳，或直接手寫過程",
+  "High school to university · Type, upload, or write your work",
+  "Du lycée à l’université · Saisir, importer ou écrire à la main",
+  "De bachillerato a universidad · Escribe, sube o resuelve a mano",
+  "高校から大学まで・入力、アップロード、手書きに対応",
+  "От школы до университета · Ввод, загрузка и рукописное решение"
+ ],
+ [
+  "AI 已配置",
+  "AI 已配置",
+  "AI configured",
+  "IA configurée",
+  "IA configurada",
+  "AI 設定済み",
+  "ИИ настроен"
+ ],
+ [
+  "API 尚未配置",
+  "API 尚未配置",
+  "API not configured yet",
+  "API non configurée",
+  "API aún no configurada",
+  "API 未設定",
+  "API ещё не настроен"
+ ],
+ [
+  "01 / BRING YOUR QUESTION",
+  "01 / BRING YOUR QUESTION",
+  "01 / BRING YOUR QUESTION",
+  "01 / VOTRE QUESTION",
+  "01 / TU PREGUNTA",
+  "01 / 問題を用意する",
+  "01 / ВАША ЗАДАЧА"
+ ],
+ [
+  "这次，你想解开什么？",
+  "這次，你想解開什麼？",
+  "What would you like to work through?",
+  "Quel problème voulez-vous explorer ?",
+  "¿Qué te gustaría resolver?",
+  "今回は、何をひもとこう？",
+  "Над какой задачей хотите поработать?"
+ ],
+ [
+  "学习阶段",
+  "學習階段",
+  "Learning level",
+  "Niveau d’études",
+  "Nivel de estudios",
+  "学習段階",
+  "Уровень обучения"
+ ],
+ [
+  "高中数学",
+  "高中數學",
+  "High school mathematics",
+  "Mathématiques du lycée",
+  "Matemáticas de bachillerato",
+  "高校数学",
+  "Школьная математика"
+ ],
+ [
+  "大学数学",
+  "大學數學",
+  "University mathematics",
+  "Mathématiques universitaires",
+  "Matemáticas universitarias",
+  "大学数学",
+  "Университетская математика"
+ ],
+ [
+  "上传题目",
+  "上傳題目",
+  "Upload a problem",
+  "Importer un problème",
+  "Subir un problema",
+  "問題をアップロード",
+  "Загрузить задачу"
+ ],
+ [
+  "支持图片、PDF 或文字；单文件最大 6 MB。拍照或截图均可。",
+  "支持圖片、PDF 或文字；單文件最大 6 MB。拍照或截圖均可。",
+  "Images, PDF or text. Up to 6 MB per file. Photos and screenshots work too.",
+  "Image, PDF ou texte. Jusqu’à 6 Mo par fichier. Photos et captures acceptées.",
+  "Imagen, PDF o texto. Hasta 6 MB por archivo. También fotos y capturas.",
+  "画像・PDF・テキストに対応。1 ファイル 6 MB まで。写真やスクリーンショットも使えます。",
+  "Изображения, PDF или текст. До 6 МБ на файл. Подойдут фото и снимки экрана."
+ ],
+ [
+  "重新识别题目",
+  "重新識別題目",
+  "Recognize the problem again",
+  "Reconnaître à nouveau",
+  "Reconocer el problema otra vez",
+  "問題を再認識",
+  "Распознать задачу снова"
+ ],
+ [
+  "上传的原题",
+  "上傳的原題",
+  "Original uploaded problem",
+  "Énoncé original importé",
+  "Problema original subido",
+  "アップロードした元の問題",
+  "Исходная загруженная задача"
+ ],
+ [
+  "题目原文",
+  "題目原文",
+  "Problem statement",
+  "Énoncé du problème",
+  "Enunciado del problema",
+  "問題文",
+  "Условие задачи"
+ ],
+ [
+  "例如：解方程 x²−5x+6=0，或证明一个结论……",
+  "例如：解方程 x²−5x+6=0，或證明一個結論……",
+  "For example: solve x²−5x+6=0, or prove a statement…",
+  "Par exemple : résoudre x²−5x+6=0, ou démontrer un résultat…",
+  "Por ejemplo: resuelve x²−5x+6=0 o demuestra una afirmación…",
+  "例：方程式 x²−5x+6=0 を解く、ある命題を証明する……",
+  "Например: решите x²−5x+6=0 или докажите утверждение…"
+ ],
+ [
+  "请核对这些识别不确定的内容：",
+  "請覈對這些識別不確定的內容：",
+  "Please check these uncertain readings: ",
+  "Vérifiez ces éléments incertains : ",
+  "Revisa estas lecturas inciertas: ",
+  "認識が不確かな箇所を確認してください：",
+  "Проверьте неуверенно распознанные фрагменты: "
+ ],
+ [
+  "我已核对题目文字与原图一致",
+  "我已覈對題目文字與原圖一致",
+  "I checked the text against the original",
+  "J’ai vérifié le texte avec l’original",
+  "He comprobado el texto con el original",
+  "認識した問題文が原図と一致することを確認しました",
+  "Текст проверен по оригиналу"
+ ],
+ [
+  "不会默认展开答案，只给你能开始的一步。",
+  "不會默認展開答案，只給你能開始的一步。",
+  "No answer revealed upfront. Just a step you can start.",
+  "Pas de réponse dévoilée d’emblée. Une étape pour commencer.",
+  "Sin revelar la respuesta de entrada. Solo un paso para empezar.",
+  "答えを先に広げず、始められる一歩を示します。",
+  "Без готового ответа в начале. Только посильный первый шаг."
+ ],
+ [
+  "正在建立教学结构…",
+  "正在建立教學結構…",
+  "Building a learning path…",
+  "Création du parcours…",
+  "Creando el recorrido…",
+  "学習の道筋を作成中…",
+  "Построение учебного плана…"
+ ],
+ [
+  "从我的题目开始",
+  "從我的題目開始",
+  "Start with my problem",
+  "Commencer mon problème",
+  "Empezar con mi problema",
+  "自分の問題から始める",
+  "Начать с моей задачи"
+ ],
+ [
+  "通用辅导与图片识别需要服务端 API；未配置时可先试下面的跨主题演示。",
+  "通用輔導與圖片識別需要服務端 API；未配置時可先試下面的跨主題演示。",
+  "General tutoring and recognition need a server API key. Try the topic demos below without one.",
+  "L’accompagnement général et la reconnaissance nécessitent une clé API serveur. Sinon, essayez les démos ci-dessous.",
+  "La tutoría general y el reconocimiento necesitan una clave API del servidor. Sin ella, prueba las demos de abajo.",
+  "汎用学習支援と画像認識にはサーバーの API キーが必要です。未設定なら下の各分野のデモを試せます。",
+  "Для общего обучения и распознавания нужен ключ API сервера. Без него доступны примеры ниже."
+ ],
+ [
+  "TRY A DIFFERENT KIND OF PROBLEM",
+  "TRY A DIFFERENT KIND OF PROBLEM",
+  "TRY A DIFFERENT KIND OF PROBLEM",
+  "ESSAYEZ UN AUTRE TYPE DE PROBLÈME",
+  "PRUEBA OTRO TIPO DE PROBLEMA",
+  "別の分野の問題も試そう",
+  "ПОПРОБУЙТЕ ДРУГОЙ ТИП ЗАДАЧ"
+ ],
+ [
+  "从不同的数学问题开始。",
+  "從不同的數學問題開始。",
+  "Different problems. Different ways to begin.",
+  "Différents problèmes, différents points de départ.",
+  "Distintos problemas. Distintas formas de empezar.",
+  "いろいろな数学の問題から。",
+  "Разные задачи. Разные первые шаги."
+ ],
+ [
+  "离线示例 · 预设路径与有限评分",
+  "離線示例 · 預設路徑與有限評分",
+  "Offline example · Authored path and limited grading",
+  "Exemple hors ligne · Parcours prédéfini, correction limitée",
+  "Ejemplo sin conexión · Recorrido preparado y evaluación limitada",
+  "オフライン例題・事前作成の道筋と限定的な採点",
+  "Офлайн-пример · Готовый план и ограниченная проверка"
+ ],
+ [
+  "开始这道示例 ↗",
+  "開始這道示例 ↗",
+  "Try this example ↗",
+  "Essayer cet exemple ↗",
+  "Probar este ejemplo ↗",
+  "この例題を始める ↗",
+  "Попробовать этот пример ↗"
+ ],
+ [
+  "通用 AI 辅导",
+  "通用 AI 輔導",
+  "General AI tutoring",
+  "Accompagnement mathématique IA",
+  "Tutoría matemática con IA",
+  "汎用 AI 学習支援",
+  "Общее обучение с ИИ"
+ ],
+ [
+  "已审核的演示内容",
+  "已審覈的演示內容",
+  "Reviewed example content",
+  "Exemple vérifié",
+  "Contenido de ejemplo revisado",
+  "確認済みのデモ内容",
+  "Проверенный учебный пример"
+ ],
+ [
+  "AI 复核 · 不是形式数学证明",
+  "AI 複覈 · 不是形式數學證明",
+  "AI-reviewed · Not a formal mathematical proof",
+  "Vérifié par IA · Pas une preuve formelle",
+  "Revisado por IA · No es una prueba formal",
+  "AI による確認・形式的な数学証明ではありません",
+  "Проверено ИИ · Не формальное доказательство"
+ ],
+ [
+  "过程已保留。下一道题，让你试着自己组织。",
+  "過程已保留。下一道題，讓你試着自己組織。",
+  "Your work is saved. Try planning the next problem yourself.",
+  "Votre travail est conservé. Essayez d’organiser le prochain problème vous-même.",
+  "Tu trabajo se conserva. Intenta organizar el siguiente problema por tu cuenta.",
+  "過程は残っています。次の問題は自分で道筋を考えてみましょう。",
+  "Работа сохранена. Следующую задачу попробуйте спланировать сами."
+ ],
+ [
+  "次支持",
+  "次支持",
+  " assistance events",
+  " aides",
+  " ayudas",
+  "回の支援",
+  " записей помощи"
+ ],
+ [
+  "次提交",
+  "次提交",
+  " submissions",
+  " envois",
+  " envíos",
+  "回の提出",
+  " отправок"
+ ],
+ [
+  "个已完成节点",
+  "個已完成節點",
+  " completed steps",
+  " étapes terminées",
+  " pasos completados",
+  "個の完了した手順",
+  " выполненных шагов"
+ ],
+ [
+  "正在生成并复核新题…",
+  "正在生成並複覈新題…",
+  "Generating and checking a new problem…",
+  "Génération et vérification d’un nouveau problème…",
+  "Generando y revisando un problema nuevo…",
+  "新しい問題を生成・確認中…",
+  "Создание и проверка новой задачи…"
+ ],
+ [
+  "AI 生成相似题，自己试试",
+  "AI 生成相似題，自己試試",
+  "Generate a similar problem to try alone",
+  "Générer un problème similaire à essayer seul",
+  "Generar un problema similar para intentarlo solo",
+  "AI で類題を作り、自分で試す",
+  "Создать похожую задачу для самостоятельной работы"
+ ],
+ [
+  "新题不展示路径与实时正误；求助后不再计为独立完成。",
+  "新題不展示路徑與實時正誤；求助後不再計爲獨立完成。",
+  "The new problem has no path or live grading. Asking for help ends unassisted status.",
+  "Le nouveau problème n’affiche ni parcours ni correction en direct. Une aide met fin à l’autonomie.",
+  "El nuevo problema no muestra recorrido ni evaluación en vivo. Pedir ayuda termina la condición independiente.",
+  "新しい問題では道筋や即時採点を表示しません。支援を求めると自主解答扱いではなくなります。",
+  "В новой задаче нет плана и мгновенной оценки. Запрос помощи прекращает самостоятельный режим."
+ ],
+ [
+  "把想法连接成完整解法。",
+  "把想法連接成完整解法。",
+  "Connect your ideas into a full solution.",
+  "Reliez vos idées en une solution complète.",
+  "Conecta tus ideas en una solución completa.",
+  "考えを、解法全体につなげよう。",
+  "Соберите из идей полное решение."
+ ],
+ [
+  "选择作答方式",
+  "選擇作答方式",
+  "Choose how to answer",
+  "Choisir le mode de réponse",
+  "Elige cómo responder",
+  "解答方法を選ぶ",
+  "Выберите способ ответа"
+ ],
+ [
+  "直接手写",
+  "直接手寫",
+  "Write by hand",
+  "Écrire à la main",
+  "Escribir a mano",
+  "そのまま手書き",
+  "Писать от руки"
+ ],
+ [
+  "键盘输入",
+  "鍵盤輸入",
+  "Type your work",
+  "Saisir au clavier",
+  "Escribir con teclado",
+  "キーボード入力",
+  "Ввод с клавиатуры"
+ ],
+ [
+  "识别文字 / 可直接修正",
+  "識別文字 / 可直接修正",
+  "Recognized text / Edit directly",
+  "Texte reconnu / Modifiable",
+  "Texto reconocido / Puedes editarlo",
+  "認識した文字・直接修正できます",
+  "Распознанный текст / Можно исправить"
+ ],
+ [
+  "写下你的过程；公式可使用 LaTeX 或普通数学写法。",
+  "寫下你的過程；公式可使用 LaTeX 或普通數學寫法。",
+  "Write your working. Use LaTeX or ordinary mathematical notation.",
+  "Écrivez votre démarche. Utilisez LaTeX ou une notation mathématique courante.",
+  "Escribe tu procedimiento. Usa LaTeX o notación matemática habitual.",
+  "過程を書いてください。数式は LaTeX または通常の書き方で入力できます。",
+  "Запишите решение. Формулы можно вводить в LaTeX или обычной записью."
+ ],
+ [
+  "提交前请确认识别文字；未识别的原笔迹不会被当作正确答案。",
+  "提交前請確認識別文字；未識別的原筆跡不會被當作正確答案。",
+  "Check the recognized text before submitting. Unrecognized ink is not assumed correct.",
+  "Vérifiez le texte reconnu avant l’envoi. Les traits non reconnus ne sont pas supposés corrects.",
+  "Revisa el texto reconocido antes de enviarlo. Los trazos no reconocidos no se dan por correctos.",
+  "提出前に認識文字を確認してください。未認識の筆跡を正解とは扱いません。",
+  "Перед отправкой проверьте распознанный текст. Нераспознанные штрихи не считаются верным ответом."
+ ],
+ [
+  "刚才那一步，已经连上了。",
+  "剛纔那一步，已經連上了。",
+  "That last step is now connected.",
+  "L’étape précédente est reliée.",
+  "El paso anterior ya está conectado.",
+  "今の一歩が、つながりました。",
+  "Предыдущий шаг уже связан с решением."
+ ],
+ [
+  "这些部分可以保留：",
+  "這些部分可以保留：",
+  "You can keep these parts: ",
+  "Vous pouvez conserver : ",
+  "Puedes conservar estas partes: ",
+  "この部分は残せます：",
+  "Эти части можно сохранить: "
+ ],
+ [
+  "查看帮助与调整记录",
+  "查看幫助與調整記錄",
+  "View help and adjustments",
+  "Voir les aides et ajustements",
+  "Ver ayudas y ajustes",
+  "支援と調整の記録を見る",
+  "Посмотреть помощь и изменения"
+ ],
+ [
+  "YOUR NOTEBOOK",
+  "YOUR NOTEBOOK",
+  "YOUR NOTEBOOK",
+  "VOTRE CARNET",
+  "TU CUADERNO",
+  "あなたのノート",
+  "ВАША ТЕТРАДЬ"
+ ],
+ [
+  "我的数学草稿",
+  "我的數學草稿",
+  "My math notebook",
+  "Mon carnet de maths",
+  "Mi cuaderno de matemáticas",
+  "数学の下書き",
+  "Моя математическая тетрадь"
+ ],
+ [
+  "换题不清空笔迹，随时回到上一次。",
+  "換題不清空筆跡，隨時回到上一次。",
+  "Your ink stays with each problem. Return whenever you like.",
+  "Vos traits restent avec chaque problème. Revenez quand vous voulez.",
+  "Los trazos se guardan con cada problema. Vuelve cuando quieras.",
+  "問題を変えても筆跡は残ります。いつでも続きに戻れます。",
+  "Рукопись остаётся с каждой задачей. Можно вернуться в любой момент."
+ ],
+ [
+  "新的问题",
+  "新的問題",
+  "New problem",
+  "Nouveau problème",
+  "Nuevo problema",
+  "新しい問題",
+  "Новая задача"
+ ],
+ [
+  "新草稿",
+  "新草稿",
+  "New draft",
+  "Nouveau brouillon",
+  "Nuevo borrador",
+  "新しい下書き",
+  "Новый черновик"
+ ],
+ [
+  "已完成",
+  "已完成",
+  "Completed",
+  "Terminé",
+  "Completado",
+  "完了",
+  "Завершено"
+ ],
+ [
+  "可继续",
+  "可繼續",
+  "Ready to resume",
+  "À reprendre",
+  "Puedes continuar",
+  "続けられます",
+  "Можно продолжить"
+ ],
+ [
+  "笔迹与上传原图保存在当前浏览器。识别时会发送当前页面或文件到服务端模型。",
+  "筆跡與上傳原圖保存在當前瀏覽器。識別時會發送當前頁面或文件到服務端模型。",
+  "Ink and original uploads stay in this browser. Recognition sends the current page or file to the server-side model.",
+  "Les traits et fichiers restent dans ce navigateur. La reconnaissance envoie la page ou le fichier au modèle côté serveur.",
+  "Los trazos y archivos quedan en este navegador. El reconocimiento envía la página o archivo al modelo del servidor.",
+  "筆跡と原図はこのブラウザーに保存されます。認識時は現在のページまたはファイルをサーバーのモデルへ送ります。",
+  "Рукопись и исходные файлы хранятся в браузере. Для распознавания текущая страница или файл отправляется модели на сервере."
+ ],
+ [
+  "AI 可能出错，重要结论请复核。",
+  "AI 可能出錯，重要結論請複覈。",
+  "AI can make mistakes. Verify important conclusions.",
+  "L’IA peut se tromper. Vérifiez les conclusions importantes.",
+  "La IA puede equivocarse. Revisa las conclusiones importantes.",
+  "AI は誤ることがあります。重要な結論は確認してください。",
+  "ИИ может ошибаться. Проверяйте важные выводы."
+ ],
+ [
+  "返回题目库",
+  "返回題目庫",
+  "Back to problems",
+  "Retour aux problèmes",
+  "Volver a los problemas",
+  "問題一覧に戻る",
+  "Назад к задачам"
+ ],
+ [
+  "这一次，按自己的思路来。",
+  "這一次，按自己的思路來。",
+  "This time, follow your own approach.",
+  "Cette fois, suivez votre démarche.",
+  "Esta vez, sigue tu propio enfoque.",
+  "今回は、自分の考えで。",
+  "На этот раз следуйте своему плану."
+ ],
+ [
+  "只关注眼前这一步。",
+  "只關注眼前這一步。",
+  "Just focus on this step.",
+  "Concentrez-vous sur cette étape.",
+  "Céntrate solo en este paso.",
+  "今は、この一歩だけに。",
+  "Сейчас — только этот шаг."
+ ],
+ [
+  "笔迹会自动保留",
+  "筆跡會自動保留",
+  "Ink is saved automatically",
+  "Traits sauvegardés automatiquement",
+  "Los trazos se guardan automáticamente",
+  "筆跡は自動で残ります",
+  "Рукопись сохраняется автоматически"
+ ],
+ [
+  "草稿已自动保存。",
+  "草稿已自動保存。",
+  "Draft saved automatically.",
+  "Brouillon enregistré automatiquement.",
+  "Borrador guardado automáticamente.",
+  "下書きを自動保存しました。",
+  "Черновик сохранён автоматически."
+ ],
+ [
+  "书写",
+  "書寫",
+  "Write",
+  "Écrire",
+  "Escribir",
+  "書く",
+  "Перо"
+ ],
+ [
+  "橡皮",
+  "橡皮",
+  "Eraser",
+  "Gomme",
+  "Borrador",
+  "消しゴム",
+  "Ластик"
+ ],
+ [
+  "撤销",
+  "撤銷",
+  "Undo",
+  "Annuler",
+  "Deshacer",
+  "元に戻す",
+  "Отменить"
+ ],
+ [
+  "重做",
+  "重做",
+  "Redo",
+  "Rétablir",
+  "Rehacer",
+  "やり直す",
+  "Повторить"
+ ],
+ [
+  "手指书写",
+  "手指書寫",
+  "Finger drawing",
+  "Écrire au doigt",
+  "Dibujar con el dedo",
+  "指で書く",
+  "Писать пальцем"
+ ],
+ [
+  "手写数学过程画布",
+  "手寫數學過程畫布",
+  "Handwriting canvas for mathematical work",
+  "Zone manuscrite pour les mathématiques",
+  "Lienzo para el procedimiento matemático",
+  "数学の手書き過程のキャンバス",
+  "Поле для рукописного решения"
+ ],
+ [
+  "直接在这里写，不必切换应用。",
+  "直接在這裏寫，不必切換應用。",
+  "Write right here. No app switching.",
+  "Écrivez ici, sans changer d’application.",
+  "Escribe aquí, sin cambiar de aplicación.",
+  "アプリを切り替えず、ここに直接書けます。",
+  "Пишите прямо здесь, не переключая приложение."
+ ],
+ [
+  "停笔后自动识别",
+  "停筆後自動識別",
+  "Recognize after a pause",
+  "Reconnaître après une pause",
+  "Reconocer al hacer una pausa",
+  "書くのを止めると自動認識",
+  "Распознавать после паузы"
+ ],
+ [
+  "正在识别…",
+  "正在識別…",
+  "Recognizing…",
+  "Reconnaissance…",
+  "Reconociendo…",
+  "認識中…",
+  "Распознавание…"
+ ],
+ [
+  "识别当前笔迹",
+  "識別當前筆跡",
+  "Recognize this page",
+  "Reconnaître cette page",
+  "Reconocer esta página",
+  "今の筆跡を認識",
+  "Распознать эту страницу"
+ ],
+ [
+  "识别只转写文字，不提供策略或评分。",
+  "識別只轉寫文字，不提供策略或評分。",
+  "Recognition only transcribes; no strategy or grading.",
+  "La reconnaissance transcrit seulement, sans conseil ni note.",
+  "El reconocimiento solo transcribe, sin estrategia ni evaluación.",
+  "認識は文字起こしのみで、方針や採点は行いません。",
+  "Только распознавание текста, без стратегии и оценки."
+ ],
+ [
+  "支持触控笔、鼠标；开启后也可用手指。",
+  "支持觸控筆、鼠標；開啓後也可用手指。",
+  "Use a stylus or mouse. Enable finger drawing if needed.",
+  "Utilisez un stylet ou la souris. Activez le doigt si nécessaire.",
+  "Usa lápiz o ratón. Activa el dibujo con el dedo si lo necesitas.",
+  "ペン・マウスに対応。設定で指でも書けます。",
+  "Можно писать стилусом или мышью. При необходимости включите ввод пальцем."
+ ],
+ [
+  "自动识别需要服务端 API；原笔迹已保留。",
+  "自動識別需要服務端 API；原筆跡已保留。",
+  "Recognition needs a server API key. Your ink is preserved.",
+  "La reconnaissance nécessite une clé API serveur. Vos traits sont conservés.",
+  "El reconocimiento necesita una clave API del servidor. Se conservan tus trazos.",
+  "自動認識にはサーバーの API が必要です。元の筆跡は残っています。",
+  "Для распознавания нужен API сервера. Рукопись сохранена."
+ ],
+ [
+  "停笔后转写，原笔迹始终保留。",
+  "停筆後轉寫，原筆跡始終保留。",
+  "Transcribe after a pause. Original ink always stays.",
+  "Transcription après une pause. Les traits originaux restent.",
+  "Transcribe al pausar. Los trazos originales siempre quedan.",
+  "停筆後に文字起こしし、元の筆跡は常に残します。",
+  "Распознавание после паузы. Исходные штрихи всегда сохраняются."
+ ],
+ [
+  "部分笔迹不确定，请核对识别文字。",
+  "部分筆跡不確定，請覈對識別文字。",
+  "Some handwriting is uncertain. Check the recognized text.",
+  "Certains traits sont incertains. Vérifiez le texte reconnu.",
+  "Hay trazos inciertos. Revisa el texto reconocido.",
+  "一部の筆跡が不確かです。認識文字を確認してください。",
+  "Часть рукописи распознана неуверенно. Проверьте текст."
+ ],
+ [
+  "最近识别",
+  "最近識別",
+  "Latest recognition",
+  "Dernière reconnaissance",
+  "Último reconocimiento",
+  "最新の認識",
+  "Последнее распознавание"
+ ],
+ [
+  "笔迹已保存在本机。",
+  "筆跡已保存在本機。",
+  "Ink saved on this device.",
+  "Traits enregistrés sur cet appareil.",
+  "Trazos guardados en este dispositivo.",
+  "筆跡をこの端末に保存しました。",
+  "Рукопись сохранена на устройстве."
+ ],
+ [
+  "正在识别笔迹，不会判定正误。",
+  "正在識別筆跡，不會判定正誤。",
+  "Recognizing handwriting, without grading it.",
+  "Reconnaissance sans évaluer la réponse.",
+  "Reconociendo la escritura, sin evaluarla.",
+  "筆跡を認識しています。正誤の判定はしません。",
+  "Распознавание рукописи без оценки правильности."
+ ],
+ [
+  "识别完成，可直接修改后提交。",
+  "識別完成，可直接修改後提交。",
+  "Recognition complete. Edit here and submit.",
+  "Reconnaissance terminée. Modifiez ici puis envoyez.",
+  "Reconocimiento completo. Edita aquí y envía.",
+  "認識しました。ここで修正して提出できます。",
+  "Распознавание завершено. Можно исправить и отправить."
+ ],
+ [
+  "笔迹存储不可用，请保持页面打开。",
+  "筆跡存儲不可用，請保持頁面打開。",
+  "Ink storage is unavailable. Keep this page open.",
+  "Stockage des traits indisponible. Gardez cette page ouverte.",
+  "No se pueden guardar los trazos. Mantén esta página abierta.",
+  "筆跡を保存できません。ページを開いたままにしてください。",
+  "Хранение рукописи недоступно. Не закрывайте страницу."
+ ],
+ [
+  "学习草稿存储不可用，请保持页面打开。",
+  "學習草稿存儲不可用，請保持頁面打開。",
+  "Draft storage is unavailable. Keep this page open.",
+  "Stockage des brouillons indisponible. Gardez la page ouverte.",
+  "No se pueden guardar los borradores. Mantén la página abierta.",
+  "下書きを保存できません。ページを開いたままにしてください。",
+  "Хранение черновиков недоступно. Не закрывайте страницу."
+ ],
+ [
+  "服务端尚未连接；题目和笔迹可先保存在本机。",
+  "服務端尚未連接；題目和筆跡可先保存在本機。",
+  "Server not connected. Keep your problem and ink on this device for now.",
+  "Serveur non connecté. Conservez le problème et les traits sur cet appareil.",
+  "Servidor sin conexión. Conserva por ahora el problema y los trazos en este dispositivo.",
+  "サーバー未接続です。問題と筆跡は先にこの端末へ保存できます。",
+  "Сервер не подключён. Пока сохраняйте задачу и рукопись на устройстве."
+ ],
+ [
+  "文件已保存；配置 API 后可识别题目，也可以直接输入题目。",
+  "文件已保存；配置 API 後可識別題目，也可以直接輸入題目。",
+  "File saved. Configure the API for recognition, or type the problem directly.",
+  "Fichier enregistré. Configurez l’API ou saisissez le problème directement.",
+  "Archivo guardado. Configura la API para reconocerlo o escribe el problema.",
+  "ファイルを保存しました。API 設定後に認識するか、問題文を直接入力できます。",
+  "Файл сохранён. Настройте API для распознавания или введите условие вручную."
+ ],
+ [
+  "题目已识别，请核对后开始。",
+  "題目已識別，請覈對後開始。",
+  "Problem recognized. Check it before starting.",
+  "Problème reconnu. Vérifiez-le avant de commencer.",
+  "Problema reconocido. Revísalo antes de empezar.",
+  "問題を認識しました。確認してから始めてください。",
+  "Задача распознана. Проверьте перед началом."
+ ],
+ [
+  "文件须小于 6 MB。",
+  "文件須小於 6 MB。",
+  "Files must be under 6 MB.",
+  "Fichier de moins de 6 Mo requis.",
+  "El archivo debe pesar menos de 6 MB.",
+  "ファイルは 6 MB 未満にしてください。",
+  "Файл должен быть меньше 6 МБ."
+ ],
+ [
+  "支持 PNG、JPEG、WebP 图片或 PDF。",
+  "支持 PNG、JPEG、WebP 圖片或 PDF。",
+  "Use PNG, JPEG, WebP or PDF.",
+  "Utilisez PNG, JPEG, WebP ou PDF.",
+  "Usa PNG, JPEG, WebP o PDF.",
+  "PNG・JPEG・WebP・PDF に対応します。",
+  "Поддерживаются PNG, JPEG, WebP и PDF."
+ ],
+ [
+  "文件读取失败。",
+  "文件讀取失敗。",
+  "Could not read the file.",
+  "Lecture du fichier impossible.",
+  "No se pudo leer el archivo.",
+  "ファイルを読み込めませんでした。",
+  "Не удалось прочитать файл."
+ ],
+ [
+  "文字文件须小于 48 KB。",
+  "文字文件須小於 48 KB。",
+  "Text files must be under 48 KB.",
+  "Le texte doit faire moins de 48 Ko.",
+  "El texto debe pesar menos de 48 KB.",
+  "テキストファイルは 48 KB 未満にしてください。",
+  "Текстовый файл должен быть меньше 48 КБ."
+ ],
+ [
+  "尚未配置 API 密钥；题目与笔迹已保留。",
+  "尚未配置 API 密鑰；題目與筆跡已保留。",
+  "API key not configured. Your problem and ink are preserved.",
+  "Clé API non configurée. Problème et traits conservés.",
+  "Clave API sin configurar. El problema y los trazos se conservan.",
+  "API キー未設定です。問題と筆跡は残っています。",
+  "Ключ API не настроен. Задача и рукопись сохранены."
+ ],
+ [
+  "离线演示只识别有限写法；当前过程已保存为待复核。",
+  "離線演示只識別有限寫法；當前過程已保存爲待複覈。",
+  "The offline demo accepts limited forms. Your work is saved for review.",
+  "La démo hors ligne accepte des formes limitées. Travail conservé pour vérification.",
+  "La demo sin conexión acepta formas limitadas. Tu trabajo se guarda para revisión.",
+  "オフラインデモが扱える表記は限られます。過程を要確認として保存しました。",
+  "Офлайн-демо принимает ограниченные формы. Работа сохранена для проверки."
+ ],
+ [
+  "代数与方程",
+  "代數與方程",
+  "Algebra and equations",
+  "Algèbre et équations",
+  "Álgebra y ecuaciones",
+  "代数と方程式",
+  "Алгебра и уравнения"
+ ],
+ [
+  "几何与三角",
+  "幾何與三角",
+  "Geometry and trigonometry",
+  "Géométrie et trigonométrie",
+  "Geometría y trigonometría",
+  "幾何と三角法",
+  "Геометрия и тригонометрия"
+ ],
+ [
+  "概率与统计",
+  "概率與統計",
+  "Probability and statistics",
+  "Probabilités et statistiques",
+  "Probabilidad y estadística",
+  "確率と統計",
+  "Вероятность и статистика"
+ ],
+ [
+  "线性代数",
+  "線性代數",
+  "Linear algebra",
+  "Algèbre linéaire",
+  "Álgebra lineal",
+  "線形代数",
+  "Линейная алгебра"
+ ],
+ [
+  "微积分",
+  "微積分",
+  "Calculus",
+  "Analyse",
+  "Cálculo",
+  "微積分",
+  "Математический анализ"
+ ],
+ [
+  "数列与证明",
+  "數列與證明",
+  "Sequences and proofs",
+  "Suites et démonstrations",
+  "Sucesiones y demostraciones",
+  "数列と証明",
+  "Последовательности и доказательства"
+ ],
+ [
+  "寻找两个数之间的关系",
+  "尋找兩個數之間的關係",
+  "Find the relationship between two numbers",
+  "Trouver le lien entre deux nombres",
+  "Encuentra la relación entre dos números",
+  "二つの数の関係を見つける",
+  "Найдите связь между двумя числами"
+ ],
+ [
+  "把乘积为零转成解",
+  "把乘積爲零轉成解",
+  "Turn a zero product into solutions",
+  "Déduire les solutions d’un produit nul",
+  "Obtén las soluciones de un producto nulo",
+  "積がゼロの式から解を求める",
+  "Получите корни из нулевого произведения"
+ ],
+ [
+  "找两个数，使它们的和为 5、积为 6。填写这两个数，用逗号分隔。",
+  "找兩個數，使它們的和爲 5、積爲 6。填寫這兩個數，用逗號分隔。",
+  "Find two numbers with sum 5 and product 6. Separate them with a comma.",
+  "Trouvez deux nombres de somme 5 et de produit 6. Séparez-les par une virgule.",
+  "Busca dos números cuya suma sea 5 y producto 6. Sepáralos con una coma.",
+  "和が 5、積が 6 になる二つの数を、コンマで区切って書いてください。",
+  "Найдите два числа с суммой 5 и произведением 6. Разделите их запятой."
+ ],
+ [
+  "把方程写成因式乘积为零的形式。",
+  "把方程寫成因式乘積爲零的形式。",
+  "Write the equation as a product of factors equal to zero.",
+  "Écrivez l’équation comme un produit de facteurs égal à zéro.",
+  "Escribe la ecuación como un producto de factores igual a cero.",
+  "方程式を、因数の積がゼロになる形で書きましょう。",
+  "Запишите уравнение как произведение множителей, равное нулю."
+ ],
+ [
+  "解方程",
+  "解方程",
+  "Solve the equation",
+  "Résoudre l’équation",
+  "Resuelve la ecuación",
+  "方程式を解く",
+  "Решите уравнение"
+ ],
+ [
+  "，说明你的解题过程。",
+  "，說明你的解題過程。",
+  " and show your working.",
+  " et expliquez votre démarche.",
+  " y muestra tu procedimiento.",
+  "。解く過程を説明してください。",
+  " и покажите ход решения."
+ ],
+ [
+  "直角三角形的两条直角边长为 6 和 8，求斜边长。",
+  "直角三角形的兩條直角邊長爲 6 和 8，求斜邊長。",
+  "A right triangle has legs of length 6 and 8. Find the hypotenuse.",
+  "Un triangle rectangle a des côtés de l’angle droit de 6 et 8. Trouvez l’hypoténuse.",
+  "Un triángulo rectángulo tiene catetos de 6 y 8. Halla la hipotenusa.",
+  "直角三角形の二つの直角辺が 6 と 8 のとき、斜辺の長さを求めてください。",
+  "Катеты прямоугольного треугольника равны 6 и 8. Найдите гипотенузу."
+ ],
+ [
+  "建立边长之间的关系",
+  "建立邊長之間的關係",
+  "Relate the side lengths",
+  "Relier les longueurs des côtés",
+  "Relaciona las longitudes de los lados",
+  "辺の長さの関係を立てる",
+  "Свяжите длины сторон"
+ ],
+ [
+  "由平方得到长度",
+  "由平方得到長度",
+  "Find the length from its square",
+  "Trouver la longueur à partir du carré",
+  "Halla la longitud a partir de su cuadrado",
+  "平方から長さを求める",
+  "Найдите длину по её квадрату"
+ ],
+ [
+  "设斜边长为 c，用已知边长写出 c 的平方关系。",
+  "設斜邊長爲 c，用已知邊長寫出 c 的平方關係。",
+  "Let c be the hypotenuse. Relate c² to the known lengths.",
+  "Soit c l’hypoténuse. Reliez c² aux longueurs connues.",
+  "Sea c la hipotenusa. Relaciona c² con las longitudes dadas.",
+  "斜辺を c とし、既知の辺の長さを使って c の平方の関係を書きましょう。",
+  "Пусть c — гипотенуза. Свяжите c² с известными длинами."
+ ],
+ [
+  "计算 c² 的值，只填写数值。",
+  "計算 c² 的值，只填寫數值。",
+  "Calculate c². Enter only the number.",
+  "Calculez c². Indiquez seulement le nombre.",
+  "Calcula c². Escribe solo el número.",
+  "c² を計算し、数値だけを書いてください。",
+  "Вычислите c². Введите только число."
+ ],
+ [
+  "独立抛掷两枚均匀硬币，至少出现一次正面的概率是多少？",
+  "獨立拋擲兩枚均勻硬幣，至少出現一次正面的概率是多少？",
+  "Two fair coins are tossed independently. What is the probability of at least one head?",
+  "On lance deux pièces équilibrées indépendamment. Quelle est la probabilité d’au moins une face ?",
+  "Se lanzan dos monedas justas de forma independiente. ¿Cuál es la probabilidad de al menos una cara?",
+  "公平な硬貨を二枚独立に投げます。少なくとも一回表が出る確率は？",
+  "Независимо бросают две честные монеты. Какова вероятность хотя бы одного орла?"
+ ],
+ [
+  "列出等可能结果",
+  "列出等可能結果",
+  "List the equally likely outcomes",
+  "Lister les issues équiprobables",
+  "Enumera los resultados equiprobables",
+  "同じ確率の結果を列挙する",
+  "Перечислите равновероятные исходы"
+ ],
+ [
+  "计算补事件的概率",
+  "計算補事件的概率",
+  "Calculate the complementary probability",
+  "Calculer la probabilité complémentaire",
+  "Calcula la probabilidad complementaria",
+  "余事象の確率を計算する",
+  "Вычислите вероятность дополнения"
+ ],
+ [
+  "共有多少个等可能的有序结果？只填数值。",
+  "共有多少個等可能的有序結果？只填數值。",
+  "How many equally likely ordered outcomes are there? Enter a number.",
+  "Combien d’issues ordonnées équiprobables ? Indiquez un nombre.",
+  "¿Cuántos resultados ordenados equiprobables hay? Escribe un número.",
+  "同じ確率の順序付きの結果はいくつありますか。数値だけを書いてください。",
+  "Сколько равновероятных упорядоченных исходов? Введите число."
+ ],
+ [
+  "两次均为反面的概率是多少？用分数填写。",
+  "兩次均爲反面的概率是多少？用分數填寫。",
+  "What is the probability of two tails? Enter a fraction.",
+  "Quelle est la probabilité de deux piles ? Indiquez une fraction.",
+  "¿Cuál es la probabilidad de dos cruces? Escribe una fracción.",
+  "二回とも裏が出る確率を、分数で書いてください。",
+  "Какова вероятность двух решек? Введите дробь."
+ ],
+ [
+  "解线性方程组",
+  "解線性方程組",
+  "Solve the linear system",
+  "Résoudre le système linéaire",
+  "Resuelve el sistema lineal",
+  "連立一次方程式を解く",
+  "Решите линейную систему"
+ ],
+ [
+  "，并验证解。",
+  "，並驗證解。",
+  " and verify the solution.",
+  " et vérifiez la solution.",
+  " y comprueba la solución.",
+  "。解も確認してください。",
+  " и проверьте решение."
+ ],
+ [
+  "消去一个未知量",
+  "消去一個未知量",
+  "Eliminate one unknown",
+  "Éliminer une inconnue",
+  "Elimina una incógnita",
+  "未知数を一つ消去する",
+  "Исключите одну неизвестную"
+ ],
+ [
+  "回代求另一个未知量",
+  "回代求另一個未知量",
+  "Substitute back for the other unknown",
+  "Substituer pour l’autre inconnue",
+  "Sustituye para hallar la otra incógnita",
+  "代入してもう一つの未知数を求める",
+  "Подставьте обратно и найдите вторую неизвестную"
+ ],
+ [
+  "两式相加后，得到什么关于 x 的等式？",
+  "兩式相加後，得到什麼關於 x 的等式？",
+  "What equation in x results from adding both equations?",
+  "Quelle équation en x obtenez-vous en additionnant les deux équations ?",
+  "¿Qué ecuación en x obtienes al sumar ambas ecuaciones?",
+  "二つの式を足すと、x についてどんな式になりますか？",
+  "Какое уравнение относительно x получится при сложении?"
+ ],
+ [
+  "解出 x，只填写数值。",
+  "解出 x，只填寫數值。",
+  "Solve for x. Enter only the number.",
+  "Trouvez x. Indiquez seulement le nombre.",
+  "Halla x. Escribe solo el número.",
+  "x を求め、数値だけを書いてください。",
+  "Найдите x. Введите только число."
+ ],
+ [
+  "求",
+  "求",
+  "Find ",
+  "Trouver ",
+  "Halla ",
+  "求める：",
+  "Найдите "
+ ],
+ [
+  "的导数。",
+  "的導數。",
+  "the derivative.",
+  "la dérivée.",
+  "la derivada.",
+  "の導関数。",
+  "производную."
+ ],
+ [
+  "确定乘积求导关系",
+  "確定乘積求導關係",
+  "Identify the product rule",
+  "Identifier la règle du produit",
+  "Identifica la regla del producto",
+  "積の微分の関係を決める",
+  "Определите правило произведения"
+ ],
+ [
+  "计算两个部分的导数",
+  "計算兩個部分的導數",
+  "Differentiate both parts",
+  "Dériver les deux parties",
+  "Deriva ambas partes",
+  "二つの部分の導関数を求める",
+  "Найдите производные обеих частей"
+ ],
+ [
+  "选择正确关系：填写 (uv)'=u'v+uv'。",
+  "選擇正確關係：填寫 (uv)'=u'v+uv'。",
+  "State the product rule: (uv)'=u'v+uv'.",
+  "Énoncez la règle du produit : (uv)'=u'v+uv'.",
+  "Indica la regla del producto: (uv)'=u'v+uv'.",
+  "積の微分法則 (uv)'=u'v+uv' を書いてください。",
+  "Запишите правило произведения: (uv)'=u'v+uv'."
+ ],
+ [
+  "填写 x² 的导数。",
+  "填寫 x² 的導數。",
+  "Enter the derivative of x².",
+  "Indiquez la dérivée de x².",
+  "Escribe la derivada de x².",
+  "x² の導関数を書いてください。",
+  "Введите производную x²."
+ ],
+ [
+  "证明：",
+  "證明：",
+  "Prove: ",
+  "Démontrer : ",
+  "Demuestra: ",
+  "証明：",
+  "Докажите: "
+ ],
+ [
+  "，其中 n 为正整数。",
+  "，其中 n 爲正整數。",
+  " for positive integers n.",
+  " pour tout entier positif n.",
+  " para enteros positivos n.",
+  "。ただし n は正の整数です。",
+  " для положительных целых n."
+ ],
+ [
+  "检查归纳起点",
+  "檢查歸納起點",
+  "Check the induction base case",
+  "Vérifier l’initialisation",
+  "Comprueba el caso base",
+  "数学的帰納法の最初を確認する",
+  "Проверьте базу индукции"
+ ],
+ [
+  "完成归纳递推",
+  "完成歸納遞推",
+  "Complete the induction step",
+  "Compléter l’hérédité",
+  "Completa el paso inductivo",
+  "帰納段階を完成させる",
+  "Выполните индукционный переход"
+ ],
+ [
+  "当 n=1 时，等式两边的值是多少？只填这个数值。",
+  "當 n=1 時，等式兩邊的值是多少？只填這個數值。",
+  "For n=1, what value do both sides have? Enter that number.",
+  "Pour n=1, quelle valeur ont les deux membres ? Indiquez ce nombre.",
+  "Para n=1, ¿qué valor tienen ambos lados? Escribe ese número.",
+  "n=1 のとき、両辺の値はいくつですか。数値だけを書いてください。",
+  "При n=1 чему равны обе части? Введите число."
+ ],
+ [
+  "假设前 k 项和为 k(k+1)/2，加入第 k+1 项后，和可写成什么因式形式？",
+  "假設前 k 項和爲 k(k+1)/2，加入第 k+1 項後，和可寫成什麼因式形式？",
+  "Assume the first k terms sum to k(k+1)/2. After adding k+1, what is the factored form?",
+  "Supposez la somme des k termes égale à k(k+1)/2. Après ajout de k+1, quelle est la forme factorisée ?",
+  "Supón que los primeros k términos suman k(k+1)/2. Al añadir k+1, ¿cuál es la forma factorizada?",
+  "最初の k 項の和を k(k+1)/2 とします。k+1 を加えると、どのような因数の形になりますか？",
+  "Пусть сумма первых k членов равна k(k+1)/2. Какова разложенная форма после добавления k+1?"
+ ],
+ [
+  "覆盖高中与大学数学；AI 无法确认的内容会保留为待复核。",
+  "覆蓋高中與大學數學；AI 無法確認的內容會保留爲待複覈。",
+  "High school and university mathematics. Uncertain AI results are kept for review.",
+  "Mathématiques du lycée et de l’université. Les résultats incertains restent à vérifier.",
+  "Matemáticas de bachillerato y universidad. Los resultados inciertos quedan para revisión.",
+  "高校・大学の数学に対応。AI が確認できない内容は要確認として残します。",
+  "Школьная и университетская математика. Неуверенные результаты ИИ остаются для проверки."
+ ],
+ [
+  "相似题生成需要连接 AI。当前题目和过程已保存。",
+  "相似題生成需要連接 AI。當前題目和過程已保存。",
+  "Connect AI to generate a similar problem. Your current work is saved.",
+  "Connectez l’IA pour générer un problème similaire. Votre travail est conservé.",
+  "Conecta la IA para generar un problema similar. Tu trabajo está guardado.",
+  "類題の生成には AI 接続が必要です。今の問題と過程は保存しています。",
+  "Для создания похожей задачи подключите ИИ. Текущая работа сохранена."
+ ],
+ [
+  "回看这道题，获得帮助 →",
+  "回看這道題，獲得幫助 →",
+  "Review this problem with help →",
+  "Revoir ce problème avec aide →",
+  "Repasar este problema con ayuda →",
+  "この問題を支援付きで振り返る →",
+  "Разобрать эту задачу с помощью →"
+ ],
+ [
+  "本次内容尚未通过校验，题目和草稿已保留。",
+  "本次內容尚未通過校驗，題目和草稿已保留。",
+  "This response did not pass validation. Your problem and draft are preserved.",
+  "Cette réponse n’a pas passé la validation. Problème et brouillon conservés.",
+  "La respuesta no pasó la validación. Se conservan el problema y el borrador.",
+  "今回の内容は検証に通りませんでした。問題と下書きは残っています。",
+  "Ответ не прошёл проверку. Задача и черновик сохранены."
+ ],
+ [
+  "这道题的条件或解答尚需复核。请补充题意，或保留原题稍后再试。",
+  "這道題的條件或解答尚需複覈。請補充題意，或保留原題稍後再試。",
+  "The conditions or solution need review. Add details or keep the problem and try later.",
+  "Les conditions ou la solution restent à vérifier. Précisez l’énoncé ou réessayez plus tard.",
+  "Las condiciones o la solución requieren revisión. Añade detalles o inténtalo después.",
+  "問題の条件または解答に確認が必要です。条件を補うか、問題を保存して後で試してください。",
+  "Условия или решение требуют проверки. Добавьте детали или попробуйте позже."
+ ],
+ [
+  "AI 响应超时或连接失败。输入已保留，请重试。",
+  "AI 響應超時或連接失敗。輸入已保留，請重試。",
+  "AI timed out or could not connect. Your input is preserved; retry when ready.",
+  "Délai IA dépassé ou connexion impossible. Saisie conservée ; réessayez.",
+  "La IA tardó demasiado o no se conectó. Tu entrada se conserva; reinténtalo.",
+  "AI の応答が時間切れか、接続に失敗しました。入力を残しています。再試行してください。",
+  "ИИ не ответил вовремя или не подключился. Ввод сохранён; попробуйте снова."
+ ],
+ [
+  "请检查服务端 API 密钥及模型访问权限。",
+  "請檢查服務端 API 密鑰及模型訪問權限。",
+  "Check the server API key and model access.",
+  "Vérifiez la clé API et l’accès au modèle côté serveur.",
+  "Revisa la clave API del servidor y el acceso al modelo.",
+  "サーバーの API キーとモデル利用権限を確認してください。",
+  "Проверьте ключ API сервера и доступ к модели."
+ ],
+ [
+  "学习会话无法恢复，笔迹仍保存在本机。",
+  "學習會話無法恢復，筆跡仍保存在本機。",
+  "The session could not be restored. Ink is still saved on this device.",
+  "Session impossible à restaurer. Les traits restent sur cet appareil.",
+  "No se pudo restaurar la sesión. Los trazos siguen en este dispositivo.",
+  "学習セッションを復元できません。筆跡は端末に残っています。",
+  "Не удалось восстановить сеанс. Рукопись остаётся на устройстве."
+ ],
+ [
+  "此离线示例不支持 AI 细分，可使用局部提示；通用细分需配置 API。",
+  "此離線示例不支持 AI 細分，可使用局部提示；通用細分需配置 API。",
+  "This offline example has no AI subdivision. Use local hints, or connect the API for adaptive steps.",
+  "Cet exemple hors ligne ne propose pas de découpage IA. Utilisez les indices ou connectez l’API.",
+  "Este ejemplo sin conexión no tiene subdivisión IA. Usa pistas o conecta la API para pasos adaptativos.",
+  "このオフライン例題では AI の細分化はできません。局所ヒントを使うか API を接続してください。",
+  "В офлайн-примере нет разбиения с ИИ. Используйте подсказки или подключите API."
+ ],
+ [
+  "更多学习选项",
+  "更多學習選項",
+  "More learning options",
+  "Autres options d’apprentissage",
+  "Más opciones de aprendizaje",
+  "その他の学習オプション",
+  "Другие варианты обучения"
+ ],
+ [
+  "如何对两个函数的乘积求导？用 u 与 v 写出关系。",
+  "如何對兩個函數的乘積求導？用 u 與 v 寫出關係。",
+  "How do you differentiate a product of two functions? Write the relation using u and v.",
+  "Comment dériver le produit de deux fonctions ? Écrivez la relation avec u et v.",
+  "¿Cómo derivas el producto de dos funciones? Escribe la relación con u y v.",
+  "二つの関数の積をどう微分しますか。u と v を使って関係を書きましょう。",
+  "Как найти производную произведения двух функций? Запишите правило через u и v."
+ ],
+ [
+  "查看这一步的原笔迹",
+  "查看這一步的原筆跡",
+  "View the original ink for this step",
+  "Voir les traits originaux de cette étape",
+  "Ver los trazos originales de este paso",
+  "この手順の元の筆跡を見る",
+  "Посмотреть исходную рукопись этого шага"
+ ],
+ [
+  "让思路，",
+  "讓思路，",
+  "Let your thoughts",
+  "Laissez vos idées",
+  "Deja que tus ideas",
+  "思考を、",
+  "Пусть мысли"
+ ],
+ [
+  "慢慢亮起来。",
+  "慢慢亮起來。",
+  "find their light.",
+  "s’éclairer peu à peu.",
+  "se iluminen poco a poco.",
+  "少しずつ照らそう。",
+  "постепенно проясняются."
+ ],
+ [
+  "从一处连接，到一条清晰的路。",
+  "從一處連接，到一條清晰的路。",
+  "From one connection to a clearer path.",
+  "D’un lien à un chemin plus clair.",
+  "De una conexión a un camino más claro.",
+  "一つのつながりから、明確な道筋へ。",
+  "От одной связи — к ясному пути."
+ ],
+ [
+  "按自己的节奏，把问题解开。",
+  "按自己的節奏，把問題解開。",
+  "Untangle the problem at your own pace.",
+  "Démêlez le problème à votre rythme.",
+  "Resuelve el problema a tu ritmo.",
+  "自分のペースで、問題を解きほぐそう。",
+  "Разбирайтесь в задаче в своём темпе."
+ ],
+ [
+  "神经连接",
+  "神經連接",
+  "Connections",
+  "Connexions",
+  "Conexiones",
+  "神経のつながり",
+  "Нейронные связи"
+ ],
+ [
+  "光点寻路",
+  "光點尋路",
+  "Find a way",
+  "Trouver un chemin",
+  "Encontrar el camino",
+  "光の道筋",
+  "Путь света"
+ ],
+ [
+  "解开丝线",
+  "解開絲線",
+  "Untangle",
+  "Démêler",
+  "Desenredar",
+  "糸をほどく",
+  "Распутать нити"
+ ],
+ [
+  "播放动画",
+  "播放動畫",
+  "Play animation",
+  "Lire l’animation",
+  "Reproducir animación",
+  "アニメーションを再生",
+  "Включить анимацию"
+ ],
+ [
+  "暂停动画",
+  "暫停動畫",
+  "Pause animation",
+  "Mettre en pause",
+  "Pausar animación",
+  "アニメーションを一時停止",
+  "Приостановить анимацию"
+ ],
+ [
+  "开启动画",
+  "開啓動畫",
+  "Enable motion",
+  "Activer les animations",
+  "Activar animaciones",
+  "アニメーションを有効にする",
+  "Включить анимацию"
+ ],
+ [
+  "动态意象",
+  "動態意象",
+  "Animated scenes",
+  "Scènes animées",
+  "Escenas animadas",
+  "動くイメージ",
+  "Анимированные сцены"
+ ]
+]

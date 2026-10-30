@@ -1,0 +1,12 @@
+import 'dotenv/config';
+import {readFileSync,existsSync} from 'node:fs';import path from 'node:path';import {fileURLToPath} from 'node:url';import net from 'node:net';import {spawn} from 'node:child_process';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');process.chdir(root);
+const release=JSON.parse(readFileSync(path.join(root,'release.json'),'utf8'));
+if(!existsSync(path.join(root,'dist','index.html'))||!existsSync(path.join(root,'src','math','Workbench.tsx')))throw Error('The new application build is missing. Run START_WINDOWS.cmd from this folder.');
+async function free(port){return new Promise(resolve=>{const server=net.createServer();server.once('error',()=>resolve(false));server.listen(port,'127.0.0.1',()=>server.close(()=>resolve(true)));});}
+let port=3107;while(port<3130&&!await free(port))port++;if(port===3130)throw Error('No free port between 3107 and 3129. Close an older LEMMA window and retry.');
+console.log('\n==============================================');console.log(`LEMMA v${release.version} | NEW GENERAL MATH + HANDWRITING`);console.log('Folder: '+root);console.log('Build: '+release.build);console.log('Starting the NEW version on port '+port);console.log('==============================================\n');
+const child=spawn(process.execPath,['--import','tsx','server/index.ts'],{cwd:root,stdio:'inherit',env:{...process.env,NODE_ENV:'production',PORT:String(port)}});
+let finished=false;child.once('exit',code=>{finished=true;process.exitCode=code||0;});process.on('SIGINT',()=>child.kill('SIGINT'));process.on('SIGTERM',()=>child.kill('SIGTERM'));
+const url=`http://localhost:${port}${release.entry}`;
+for(let n=0;n<100&&!finished;n++){try{const r=await fetch(`http://127.0.0.1:${port}/api/version`,{signal:AbortSignal.timeout(1000)});const data=await r.json();if(data.build!==release.build)throw Error('Unexpected app version at this port');console.log('\nNEW VERSION VERIFIED: '+data.version+' / '+data.build);console.log('OPEN THIS EXACT ADDRESS: '+url);console.log('Keep this window open. Ctrl+C stops LEMMA.\n');if(process.platform==='win32'){const opener=spawn('rundll32.exe',['url.dll,FileProtocolHandler',url],{stdio:'ignore'});opener.on('error',()=>console.log('Please open the address above manually.'));}break;}catch{await new Promise(resolve=>setTimeout(resolve,250));if(n===99){console.error('Startup could not be verified. Check the errors above.');child.kill();process.exitCode=1;}}}
